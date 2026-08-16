@@ -133,7 +133,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53766
+            "stars": 53768
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2025-01-20T01:57:40Z",
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11287
+            "stars": 11288
           }
         },
         {
@@ -286,7 +286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:21:55.019Z",
+    "last_updated": "2026-08-16T04:27:59.549Z",
     "original_repository": "lightSky/Awesome-MaterialDesign",
     "original_repository_sha": "9b2f197fba5f3ba7df13a5f81faa7a6433a70ee1",
     "enhanced_repository": "enhansome/enhansome-Awesome-MaterialDesign",
