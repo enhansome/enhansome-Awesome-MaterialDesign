@@ -4,9 +4,9 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 
 \##Other Awesome List
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,493 | 🐛 102 | 📅 2026-08-18
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,243 | 🐛 39 | 📅 2026-06-05
-* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,779 | 🐛 10 | 📅 2026-08-17
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,654 | 🐛 102 | 📅 2026-08-18
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,247 | 🐛 39 | 📅 2026-06-05
+* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,783 | 🐛 10 | 📅 2026-08-17
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,212 | 🐛 9 | 🌐 Ruby | 📅 2026-08-03
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,217 | 🐛 12 | 📅 2018-03-08
@@ -95,8 +95,8 @@ Libraries on the github.
 
 ## <a name="Design Res">Design Res</a>
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,779 | 🐛 422 | 📅 2026-08-14
-* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,286 | 🐛 1,097 | 📅 2025-01-20
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,782 | 🐛 422 | 📅 2026-08-14
+* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,286 | 🐛 1,098 | 📅 2025-01-20
 * [TextDrawable](https://github.com/amulyakhare/TextDrawable) ⭐ 3,141 | 🐛 57 | 🌐 Java | 📅 2021-09-02
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,403 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17
 * [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template) ⭐ 434 | 🐛 0 | 🌐 Python | 📅 2016-07-11

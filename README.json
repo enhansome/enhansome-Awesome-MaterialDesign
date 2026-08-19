@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23589547,
             "language": "Java",
             "last_commit": "2019-09-10T21:43:41Z",
             "owner": "googlearchive",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23343036,
             "language": "Java",
             "last_commit": "2019-10-17T23:15:48Z",
             "owner": "googlearchive",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23589545,
             "language": "Java",
             "last_commit": "2019-10-04T22:53:04Z",
             "owner": "googlearchive",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23343162,
             "language": null,
             "last_commit": "2019-09-04T22:48:52Z",
             "owner": "googlearchive",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25366056,
             "language": null,
             "last_commit": "2019-09-04T22:46:54Z",
             "owner": "googlearchive",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23589543,
             "language": "Java",
             "last_commit": "2019-09-10T21:44:03Z",
             "owner": "googlearchive",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 21246372,
             "language": "Java",
             "last_commit": "2019-09-10T21:33:33Z",
             "owner": "googlearchive",
@@ -105,22 +112,7 @@
       "title": "Google Samples"
     },
     {
-      "description": "Google 2014 ioschedAPK",
-      "items": [],
-      "title": "Google Material Design App"
-    },
-    {
-      "description": "android-design-support-library Demo",
-      "items": [],
-      "title": "Google Design-Support-Library"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Blog"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -129,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24953448,
             "language": null,
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53779
+            "stars": 53782
           }
         },
         {
@@ -143,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21314224,
             "language": null,
             "last_commit": "2025-01-20T01:57:40Z",
             "owner": "Templarian",
@@ -157,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25423296,
             "language": "Java",
             "last_commit": "2021-09-02T12:32:50Z",
             "owner": "amulyakhare",
@@ -171,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25588324,
             "language": "SCSS",
             "last_commit": "2023-02-17T18:32:38Z",
             "owner": "zavoloklom",
@@ -185,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26113990,
             "language": "Python",
             "last_commit": "2016-07-11T08:02:01Z",
             "owner": "intrications",
@@ -199,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26957822,
             "language": "Java",
             "last_commit": "2022-02-22T05:41:10Z",
             "owner": "Malinskiy",
@@ -208,86 +206,12 @@
         }
       ],
       "title": "Design Res"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Showcase"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "FAB"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Menu & Drawer"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "View"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Widget"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "EditText"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SnackBar"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Palette"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Transition"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Ripple"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Reveal"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tricks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Vector & SVG & path-view"
-    },
-    {
-      "description": "#Thanks to inferjayQichaoChenmiao1007yuebanlsjwzh\n#About Me Weibo: light_skyTwitter: lightSkyStreetBlog: lightskystreet.comEmail: lightsky.cn@gmail.com",
-      "items": [],
-      "title": "Dialog"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:29:32.127Z",
+    "last_updated": "2026-08-19T12:11:25.465Z",
     "original_repository": "lightSky/Awesome-MaterialDesign",
+    "original_repository_id": 26414854,
     "original_repository_sha": "9b2f197fba5f3ba7df13a5f81faa7a6433a70ee1",
     "enhanced_repository": "enhansome/enhansome-Awesome-MaterialDesign",
     "enhanced_repository_description": null,
