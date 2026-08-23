@@ -4,11 +4,11 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 
 \##Other Awesome List
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,696 | 🐛 105 | 📅 2026-08-21
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,272 | 🐛 39 | 📅 2026-06-05
-* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,811 | 🐛 3 | 📅 2026-08-19
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,617 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
-* [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,218 | 🐛 10 | 🌐 Ruby | 📅 2026-08-03
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,035 | 🐛 106 | 📅 2026-08-21
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,295 | 🐛 39 | 📅 2026-06-05
+* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,819 | 🐛 3 | 📅 2026-08-19
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,619 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,220 | 🐛 10 | 🌐 Ruby | 📅 2026-08-03
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,217 | 🐛 12 | 📅 2018-03-08
 * [awesome-android](https://github.com/snowdream/awesome-android) ⚠️ Archived
 * [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,648 | 🐛 38 | 🌐 Shell | 📅 2026-07-16
@@ -69,7 +69,7 @@ Libraries on the github.
 ## <a name="Google Design-Support-Library">Google Design-Support-Library</a>
 
 [android-design-support-library](http://android-developers.blogspot.jp/2015/05/android-design-support-library.html)
-[Demo](https://github.com/chrisbanes/cheesesquare) ⭐ 7,638 | 🐛 18 | 🌐 Kotlin | 📅 2020-12-07
+[Demo](https://github.com/chrisbanes/cheesesquare) ⭐ 7,637 | 🐛 18 | 🌐 Kotlin | 📅 2020-12-07
 
 ## <a name="Blog">Blog</a>
 
@@ -95,8 +95,8 @@ Libraries on the github.
 
 ## <a name="Design Res">Design Res</a>
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,799 | 🐛 423 | 📅 2026-08-14
-* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,294 | 🐛 1,104 | 📅 2025-01-20
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,804 | 🐛 424 | 📅 2026-08-14
+* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,293 | 🐛 1,104 | 📅 2025-01-20
 * [TextDrawable](https://github.com/amulyakhare/TextDrawable) ⭐ 3,141 | 🐛 57 | 🌐 Java | 📅 2021-09-02
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,403 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17
 * [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template) ⭐ 434 | 🐛 0 | 🌐 Python | 📅 2016-07-11
@@ -115,7 +115,7 @@ Libraries on the github.
 
 | Name                                                                                                                                       | Demo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [android-design-support-library](https://github.com/chrisbanes/cheesesquare) ⭐ 7,638 \| 🐛 18 \| 🌐 Kotlin \| 📅 2020-12-07                | <img src="/demoRes/design-support-library-b.png" width="250" height="60" alt="Screenshot"/> <img src="/demoRes/design-support-library-c.png" width="250" height="60" alt="Screenshot"/> <img src="/demoRes/design-support-library-f.png" width="250" height="100" alt="Screenshot"/> <img src="/demoRes/design-support-library-a.png" width="220" height="280" alt="Screenshot"/> <img src="/demoRes/material-design-library-e.gif" width="430" height="320" alt="Screenshot"/>                                                                                                                                                                                                                                                                                                                                                                                                         |
+| [android-design-support-library](https://github.com/chrisbanes/cheesesquare) ⭐ 7,637 \| 🐛 18 \| 🌐 Kotlin \| 📅 2020-12-07                | <img src="/demoRes/design-support-library-b.png" width="250" height="60" alt="Screenshot"/> <img src="/demoRes/design-support-library-c.png" width="250" height="60" alt="Screenshot"/> <img src="/demoRes/design-support-library-f.png" width="250" height="100" alt="Screenshot"/> <img src="/demoRes/design-support-library-a.png" width="220" height="280" alt="Screenshot"/> <img src="/demoRes/material-design-library-e.gif" width="430" height="320" alt="Screenshot"/>                                                                                                                                                                                                                                                                                                                                                                                                         |
 | [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) ⭐ 8,918 \| 🐛 253 \| 🌐 Java \| 📅 2023-05-28                   | <img src="/demoRes/MaterialDesignLibrary-a.png" width="160" height="100" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-b.png" width="120" height="60" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-c.png" width="130" height="60" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-d.png" width="130" height="60" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-e.png" width="130" height="60" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-h.png" width="180" height="290" alt="Screenshot"/>                                                                                                                                                                                                                                                                                                                     |
 | [material](https://github.com/rey5137/material) ⚠️ Archived                                                                                | <img src="/demoRes/material-a.gif" width="70" height="70" alt="Screenshot"/> <img src="/demoRes/material-d.gif" width="70" height="70" alt="Screenshot"/> <img src="/demoRes/material-e.gif" width="70" height="70" alt="Screenshot"/> <img src="/demoRes/material-f.gif" width="120" height="40" alt="Screenshot"/> <img src="/demoRes/material-g.gif" width="100" height="30" alt="Screenshot"/> <img src="/demoRes/material-h.gif" width="80" height="30" alt="Screenshot"/> <img src="/demoRes/material-i.gif" width="200" height="40" alt="Screenshot"/> <img src="/demoRes/material-b.gif" width="220" height="40" alt="Screenshot"/> <img src="/demoRes/material-c.gif" width="220" height="40" alt="Screenshot"/> <img src="/demoRes/material-j.gif" width="230" height="120" alt="Screenshot"/> <img src="/demoRes/material-j.png" width="180" height="290" alt="Screenshot"/> |
 | [material-design-library](https://github.com/DenisMondon/material-design-library)                                                          | <img src="/demoRes/material-design-library-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/material-design-library-b.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/material-design-library-c.png" width="180" height="290" alt="Screenshot"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -192,7 +192,7 @@ Libraries on the github.
 | [discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) ⭐ 2,134 \| 🐛 80 \| 🌐 Java \| 📅 2018-05-07                         | <img src="/demoRes/discreteSeekBar-a.gif" width="450" height="160" alt="Screenshot"/> <img src="/demoRes/discreteSeekBar-b.gif" width="350" height="220" alt="Screenshot"/> |
 | [material-range-bar](https://github.com/oli107/material-range-bar) ⭐ 1,662 \| 🐛 96 \| 🌐 Java \| 📅 2020-12-09                     | <img src="/demoRes/material-range-bar.gif" width="180" height="290" alt="Screenshot"/>                                                                                      |
 | [material-calendarview](https://github.com/prolificinteractive/material-calendarview) ⭐ 5,900 \| 🐛 252 \| 🌐 Java \| 📅 2023-05-28 | <img src="/demoRes/material-calendarview.gif" width="230" height="290" alt="Screenshot"/>                                                                                   |
-| [BetterSpinner](https://github.com/Lesilva/BetterSpinner) ⭐ 719 \| 🐛 70 \| 🌐 Java \| 📅 2022-09-08                                | <img src="/demoRes/BetterSpinner.gif" width="180" height="290" alt="Screenshot"/>                                                                                           |
+| [BetterSpinner](https://github.com/Lesilva/BetterSpinner) ⭐ 718 \| 🐛 70 \| 🌐 Java \| 📅 2022-09-08                                | <img src="/demoRes/BetterSpinner.gif" width="180" height="290" alt="Screenshot"/>                                                                                           |
 
 ## <a name="EditText">EditText</a>
 
@@ -220,7 +220,7 @@ Libraries on the github.
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) ⭐ 4,781 \| 🐛 7 \| 🌐 Java \| 📅 2020-04-08 | <img src="/demoRes/transitions-everywhere.gif" width="180" height="290" alt="Screenshot"/>                                                                                              |
 | [PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition) ⭐ 1,290 \| 🐛 9 \| 🌐 Java \| 📅 2017-04-29    | <img src="/demoRes/PreLollipopTransition-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/PreLollipopTransition-b.gif" width="180" height="290" alt="Screenshot"/> |
-| [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,543 \| 🐛 20 \| 🌐 Java \| 📅 2019-04-02        | <img src="/demoRes/Material-Animations.gif" width="180" height="290" alt="Screenshot"/>                                                                                                 |
+| [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,544 \| 🐛 20 \| 🌐 Java \| 📅 2019-04-02        | <img src="/demoRes/Material-Animations.gif" width="180" height="290" alt="Screenshot"/>                                                                                                 |
 
 ## <a name="Ripple">Ripple</a>
 
@@ -297,4 +297,4 @@ Email: <lightsky.cn@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
