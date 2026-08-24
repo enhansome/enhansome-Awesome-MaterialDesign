@@ -5,6 +5,147 @@
       "items": [
         {
           "node_type": "item",
+          "title": "awesome",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21737465,
+            "language": null,
+            "last_commit": "2026-08-21T12:39:13Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 499507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-android-ui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28428729,
+            "language": null,
+            "last_commit": "2026-06-05T05:39:52Z",
+            "owner": "wasabeef",
+            "repo": "awesome-android-ui",
+            "stars": 57322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-java",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21648001,
+            "language": null,
+            "last_commit": "2026-08-24T00:59:50Z",
+            "owner": "akullpp",
+            "repo": "awesome-java",
+            "stars": 48835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesomeness",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21600440,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-swift",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21696302,
+            "language": "Ruby",
+            "last_commit": "2026-08-03T13:15:16Z",
+            "owner": "matteocrippa",
+            "repo": "awesome-swift",
+            "stars": 26223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ios-ui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33538019,
+            "language": null,
+            "last_commit": "2018-03-08T08:57:40Z",
+            "owner": "cjwirth",
+            "repo": "awesome-ios-ui",
+            "stars": 11216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-android",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 23948801,
+            "language": "Shell",
+            "last_commit": "2020-04-21T13:45:25Z",
+            "owner": "snowdream",
+            "repo": "awesome-android",
+            "stars": 5902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-svg",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24217086,
+            "language": "Shell",
+            "last_commit": "2026-07-16T16:17:42Z",
+            "owner": "willianjusten",
+            "repo": "awesome-svg",
+            "stars": 4648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29522382,
+            "language": "HTML",
+            "last_commit": "2022-12-17T05:12:03Z",
+            "owner": "lyfeyaj",
+            "repo": "awesome-resources",
+            "stars": 1742
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "SwipeRefreshMultipleViews",
           "description": null,
           "children": [],
@@ -116,6 +257,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Google 2014 iosched",
+          "description": "APK",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 18347476,
+            "language": "Kotlin",
+            "last_commit": "2023-01-05T18:35:51Z",
+            "owner": "google",
+            "repo": "iosched",
+            "stars": 21644
+          }
+        }
+      ],
+      "title": "Google Material Design App"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "android-design-support-library",
+          "description": "Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36470590,
+            "language": "Kotlin",
+            "last_commit": "2020-12-07T17:39:00Z",
+            "owner": "chrisbanes",
+            "repo": "cheesesquare",
+            "stars": 7637
+          }
+        }
+      ],
+      "title": "Google Design-Support-Library"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "material-design-icons",
           "description": null,
           "children": [],
@@ -126,7 +309,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53807
+            "stars": 53808
           }
         },
         {
@@ -206,10 +389,1365 @@
         }
       ],
       "title": "Design Res"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "android-design-support-library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36470590,
+                "language": "Kotlin",
+                "last_commit": "2020-12-07T17:39:00Z",
+                "owner": "chrisbanes",
+                "repo": "cheesesquare",
+                "stars": 7637
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialDesignLibrary",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24628923,
+                "language": "Java",
+                "last_commit": "2023-05-28T17:32:11Z",
+                "owner": "navasmdc",
+                "repo": "MaterialDesignLibrary",
+                "stars": 8918
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "material",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 27764811,
+                "language": "Java",
+                "last_commit": "2023-05-28T15:35:01Z",
+                "owner": "rey5137",
+                "repo": "material",
+                "stars": 5948
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Material Design In XAML Toolkit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30474266,
+                "language": "C#",
+                "last_commit": "2026-08-22T03:35:24Z",
+                "owner": "MaterialDesignInXAML",
+                "repo": "MaterialDesignInXamlToolkit",
+                "stars": 16243
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Curved-Fab-Reveal-Example",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34161476,
+                "language": "Java",
+                "last_commit": "2015-11-22T23:29:50Z",
+                "owner": "saulmm",
+                "repo": "Curved-Fab-Reveal-Example",
+                "stars": 1134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android-LollipopShowcase",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25601444,
+                "language": "Java",
+                "last_commit": "2016-01-02T17:14:06Z",
+                "owner": "mikepenz",
+                "repo": "LollipopShowcase",
+                "stars": 1731
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "google-io-2014-compat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23647078,
+                "language": "Java",
+                "last_commit": "2015-01-04T08:43:35Z",
+                "owner": "unrarp",
+                "repo": "google-io-2014-compat",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "google-io-2014",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21266028,
+                "language": "Java",
+                "last_commit": "2014-12-08T19:44:28Z",
+                "owner": "romainguy",
+                "repo": "google-io-2014",
+                "stars": 1248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AndroidMaterialDesignToolbar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26119423,
+                "language": "Java",
+                "last_commit": "2020-10-17T20:09:51Z",
+                "owner": "tekinarslan",
+                "repo": "AndroidMaterialDesignToolbar",
+                "stars": 711
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android-L-Preview-Concepts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21524303,
+                "language": "Java",
+                "last_commit": "2014-07-06T11:39:00Z",
+                "owner": "saulmm",
+                "repo": "Android-L-Preview-Concepts",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenLibra-Material",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26664321,
+                "language": "Java",
+                "last_commit": "2015-09-09T21:43:40Z",
+                "owner": "saulmm",
+                "repo": "OpenLibra-Material",
+                "stars": 358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialEverywhere",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25372139,
+                "language": "Java",
+                "last_commit": "2020-01-21T23:33:51Z",
+                "owner": "antoniolg",
+                "repo": "MaterialEverywhere",
+                "stars": 1272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android-Material-Example",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25166410,
+                "language": "Java",
+                "last_commit": "2016-04-19T09:14:57Z",
+                "owner": "saulmm",
+                "repo": "Android-Material-Examples",
+                "stars": 2797
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialDesignSample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21523856,
+                "language": "Java",
+                "last_commit": "2015-09-22T14:05:59Z",
+                "owner": "rejasupotaro",
+                "repo": "MaterialDesignSample",
+                "stars": 345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Material-Action-Bar-Sample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25034917,
+                "language": "Java",
+                "last_commit": "2014-11-05T15:48:44Z",
+                "owner": "xiprox",
+                "repo": "Material-Action-Bar-Sample",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialDesignSupport",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23346365,
+                "language": null,
+                "last_commit": "2014-08-26T01:11:36Z",
+                "owner": "shawwinbin",
+                "repo": "MaterialDesignSupport",
+                "stars": 125
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Showcase"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FloatingActionButton",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21435983,
+                "language": "Java",
+                "last_commit": "2015-04-09T21:45:01Z",
+                "owner": "faizmalkani",
+                "repo": "Fabulous",
+                "stars": 478
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FloatingActionButton",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22105003,
+                "language": "Java",
+                "last_commit": "2023-05-28T15:33:21Z",
+                "owner": "makovkastar",
+                "repo": "FloatingActionButton",
+                "stars": 3964
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tickplusdrawable",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22687767,
+                "language": "Java",
+                "last_commit": "2022-02-06T13:02:20Z",
+                "owner": "flavienlaurent",
+                "repo": "tickplusdrawable",
+                "stars": 267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android-Material-circular-button",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22035763,
+                "language": "Java",
+                "last_commit": "2017-04-18T07:58:35Z",
+                "owner": "glomadrian",
+                "repo": "Android-Material-circular-button",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FloatingActionButton",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 32631353,
+                "language": "Java",
+                "last_commit": "2019-07-11T20:43:07Z",
+                "owner": "Clans",
+                "repo": "FloatingActionButton",
+                "stars": 5177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RapidFloatingActionButton",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34777489,
+                "language": "Java",
+                "last_commit": "2018-05-09T12:40:58Z",
+                "owner": "wangjiegulu",
+                "repo": "RapidFloatingActionButton",
+                "stars": 1281
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "FAB"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "android-ui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24288133,
+                "language": "Java",
+                "last_commit": "2016-09-19T12:52:07Z",
+                "owner": "markushi",
+                "repo": "android-ui",
+                "stars": 2184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "material-menu",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21690229,
+                "language": "Java",
+                "last_commit": "2024-06-11T07:51:24Z",
+                "owner": "balysv",
+                "repo": "material-menu",
+                "stars": 2449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DrawerArrowDrawable",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25144435,
+                "language": "Java",
+                "last_commit": "2017-07-08T12:30:06Z",
+                "owner": "ChrisRenke",
+                "repo": "DrawerArrowDrawable",
+                "stars": 818
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LDrawer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25119308,
+                "language": "Java",
+                "last_commit": "2019-10-25T16:14:28Z",
+                "owner": "keklikhasan",
+                "repo": "LDrawer",
+                "stars": 1374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialDrawer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30120110,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T21:06:47Z",
+                "owner": "mikepenz",
+                "repo": "MaterialDrawer",
+                "stars": 11646
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "android-material-drawer-template",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25682021,
+                "language": "Java",
+                "last_commit": "2019-12-12T18:09:30Z",
+                "owner": "kanytu",
+                "repo": "android-material-drawer-template",
+                "stars": 665
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialTabs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25553681,
+                "language": "Java",
+                "last_commit": "2019-03-12T01:46:41Z",
+                "owner": "neokree",
+                "repo": "MaterialTabs",
+                "stars": 1383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "L-Navigation-Drawer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 23296172,
+                "language": "Java",
+                "last_commit": "2014-08-25T09:58:32Z",
+                "owner": "lewisjdeane",
+                "repo": "L-Navigation-Drawer",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialNavigationDrawer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 26396162,
+                "language": "Java",
+                "last_commit": "2015-12-22T18:30:00Z",
+                "owner": "neokree",
+                "repo": "MaterialNavigationDrawer",
+                "stars": 1541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NavigationDrawer-MaterialDesign",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28795278,
+                "language": "Java",
+                "last_commit": "2021-03-26T08:53:54Z",
+                "owner": "zirouan",
+                "repo": "NavigationDrawer-MaterialDesign",
+                "stars": 1046
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MenuAnimation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23769280,
+                "language": "Java",
+                "last_commit": "2014-10-02T10:17:57Z",
+                "owner": "onivas",
+                "repo": "MenuAnimation",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Material_Navigationdrawer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25398331,
+                "language": "Java",
+                "last_commit": "2014-10-18T13:49:58Z",
+                "owner": "DympyDev",
+                "repo": "Material_Navigationdrawer",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "material-drawer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26513427,
+                "language": "Java",
+                "last_commit": "2024-10-14T13:27:30Z",
+                "owner": "janheinrichmerker",
+                "repo": "material-drawer",
+                "stars": 592
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Menu & Drawer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MaterialImageView",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31495654,
+                "language": "Java",
+                "last_commit": "2015-03-03T22:38:01Z",
+                "owner": "zhaozhentao",
+                "repo": "MaterialImageView",
+                "stars": 326
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialViewPager",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 34533286,
+                "language": "Java",
+                "last_commit": "2018-10-12T01:11:20Z",
+                "owner": "florent37",
+                "repo": "MaterialViewPager",
+                "stars": 8073
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android-MaterialPreference",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 30039149,
+                "language": "Java",
+                "last_commit": "2017-03-04T14:49:54Z",
+                "owner": "jenzz",
+                "repo": "Android-MaterialPreference",
+                "stars": 504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwipeableCard",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47075567,
+                "language": "Java",
+                "last_commit": "2017-04-21T07:39:16Z",
+                "owner": "michelelacorte",
+                "repo": "SwipeableCard",
+                "stars": 837
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "View"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "materialish-progress",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26682353,
+                "language": "Java",
+                "last_commit": "2026-04-02T06:20:00Z",
+                "owner": "nico2sh",
+                "repo": "materialish-progress",
+                "stars": 2468
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialLoadingProgressBar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30398782,
+                "language": "Java",
+                "last_commit": "2020-10-02T06:40:32Z",
+                "owner": "lsjwzh",
+                "repo": "MaterialLoadingProgressBar",
+                "stars": 1087
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwipyRefreshLayout",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 29753546,
+                "language": "Java",
+                "last_commit": "2017-04-17T22:36:52Z",
+                "owner": "omadahealth",
+                "repo": "SwipyRefreshLayout",
+                "stars": 954
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialSettings",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32350715,
+                "language": "Java",
+                "last_commit": "2015-04-08T18:21:37Z",
+                "owner": "kenumir",
+                "repo": "MaterialSettings",
+                "stars": 359
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwitchButton",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23823503,
+                "language": "Java",
+                "last_commit": "2023-12-02T12:28:42Z",
+                "owner": "kyleduo",
+                "repo": "SwitchButton",
+                "stars": 4744
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "discreteSeekBar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27277596,
+                "language": "Java",
+                "last_commit": "2018-05-07T20:54:58Z",
+                "owner": "AnderWeb",
+                "repo": "discreteSeekBar",
+                "stars": 2134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "material-range-bar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24868009,
+                "language": "Java",
+                "last_commit": "2020-12-09T06:32:19Z",
+                "owner": "oli107",
+                "repo": "material-range-bar",
+                "stars": 1662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "material-calendarview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30562287,
+                "language": "Java",
+                "last_commit": "2023-05-28T16:37:44Z",
+                "owner": "prolificinteractive",
+                "repo": "material-calendarview",
+                "stars": 5900
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BetterSpinner",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32776501,
+                "language": "Java",
+                "last_commit": "2022-09-08T21:07:44Z",
+                "owner": "Lesilva",
+                "repo": "BetterSpinner",
+                "stars": 718
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Widget"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MaterialEditText",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25965034,
+                "language": "Java",
+                "last_commit": "2026-03-28T03:48:37Z",
+                "owner": "rengwuxian",
+                "repo": "MaterialEditText",
+                "stars": 6075
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialTextField",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25067022,
+                "language": "Java",
+                "last_commit": "2014-10-22T05:06:37Z",
+                "owner": "zst123",
+                "repo": "MaterialTextField",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "EditText"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SnackBar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24434886,
+                "language": "Java",
+                "last_commit": "2015-06-01T18:33:33Z",
+                "owner": "Kennyc1012",
+                "repo": "SnackBar",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "snackbar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 23088566,
+                "language": "Java",
+                "last_commit": "2015-09-21T02:04:52Z",
+                "owner": "nispok",
+                "repo": "snackbar",
+                "stars": 1513
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SnackBar"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "transitions-everywhere",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25237608,
+                "language": "Java",
+                "last_commit": "2020-04-08T09:39:05Z",
+                "owner": "andkulikov",
+                "repo": "Transitions-Everywhere",
+                "stars": 4781
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PreLollipopTransition",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32875196,
+                "language": "Java",
+                "last_commit": "2017-04-29T09:59:12Z",
+                "owner": "takahirom",
+                "repo": "PreLollipopTransition",
+                "stars": 1290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Material-Animations",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31865176,
+                "language": "Java",
+                "last_commit": "2019-04-02T15:42:38Z",
+                "owner": "lgvalle",
+                "repo": "Material-Animations",
+                "stars": 13544
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Transition"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RippleEffect",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25208398,
+                "language": "Java",
+                "last_commit": "2021-02-04T10:54:44Z",
+                "owner": "traex",
+                "repo": "RippleEffect",
+                "stars": 4892
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RippleView",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23802879,
+                "language": "Java",
+                "last_commit": "2017-04-18T10:30:21Z",
+                "owner": "siriscac",
+                "repo": "RippleView",
+                "stars": 1135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "android-ripple-background",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 26302821,
+                "language": "Java",
+                "last_commit": "2019-10-11T15:25:48Z",
+                "owner": "skyfishjy",
+                "repo": "android-ripple-background",
+                "stars": 2244
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "material-ripple",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24117407,
+                "language": "Java",
+                "last_commit": "2024-06-11T07:50:55Z",
+                "owner": "balysv",
+                "repo": "material-ripple",
+                "stars": 2346
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PaperStyleWidgets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22961178,
+                "language": "Java",
+                "last_commit": "2015-05-09T16:19:23Z",
+                "owner": "aNNiMON",
+                "repo": "PaperStyleWidgets",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "material-design-toolkit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24587773,
+                "language": "Java",
+                "last_commit": "2015-04-22T12:17:24Z",
+                "owner": "twang2218",
+                "repo": "material-design-toolkit",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ripple"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "android-ui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24288133,
+                "language": "Java",
+                "last_commit": "2016-09-19T12:52:07Z",
+                "owner": "markushi",
+                "repo": "android-ui",
+                "stars": 2184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CircularReveal",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26807221,
+                "language": "Java",
+                "last_commit": "2019-04-07T19:32:24Z",
+                "owner": "ozodrukh",
+                "repo": "CircularReveal",
+                "stars": 2400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RevealLayout",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26954989,
+                "language": "Java",
+                "last_commit": "2017-03-23T19:12:16Z",
+                "owner": "kyze8439690",
+                "repo": "RevealLayout",
+                "stars": 367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CircularRevealFragment",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171673721,
+                "language": "Java",
+                "last_commit": "2019-02-20T13:27:07Z",
+                "owner": "ferdy182",
+                "repo": "Android-CircularRevealFragment",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ViewRevealAnimator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26656801,
+                "language": "Java",
+                "last_commit": "2016-02-20T16:21:38Z",
+                "owner": "sephiroth74",
+                "repo": "ViewRevealAnimator",
+                "stars": 329
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reveal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Android-ObservableScrollView",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26363421,
+                "language": "Java",
+                "last_commit": "2021-06-01T03:54:51Z",
+                "owner": "ksoichiro",
+                "repo": "Android-ObservableScrollView",
+                "stars": 9608
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ViewPagerHeaderScrollDemo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 27823616,
+                "language": "Java",
+                "last_commit": "2014-12-20T07:55:05Z",
+                "owner": "ongakuer",
+                "repo": "ViewPagerHeaderScrollDemo",
+                "stars": 309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialTextScaleToolbarDemo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34720806,
+                "language": "Java",
+                "last_commit": "2015-04-29T10:43:05Z",
+                "owner": "yueban",
+                "repo": "MaterialTextScaleToolbarDemo",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scrollable",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33073963,
+                "language": "Java",
+                "last_commit": "2024-03-15T19:22:49Z",
+                "owner": "noties",
+                "repo": "Scrollable",
+                "stars": 1237
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tricks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vector-compat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33611781,
+                "language": "Java",
+                "last_commit": "2016-10-24T02:42:14Z",
+                "owner": "wnafee",
+                "repo": "vector-compat",
+                "stars": 1212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "animated-vector-drawable",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25480910,
+                "language": "Java",
+                "last_commit": "2014-12-04T21:58:12Z",
+                "owner": "chiuki",
+                "repo": "animated-vector-drawable",
+                "stars": 323
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "android-pathview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29536194,
+                "language": "Java",
+                "last_commit": "2022-01-23T05:21:50Z",
+                "owner": "geftimov",
+                "repo": "android-pathview",
+                "stars": 2891
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SVG-Loaders",
+              "description": "SVG-Loaders-Previewed",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26890199,
+                "language": "HTML",
+                "last_commit": "2025-01-02T15:41:35Z",
+                "owner": "SamHerbert",
+                "repo": "SVG-Loaders",
+                "stars": 7026
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vector & SVG & path-view"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "material-dialogs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 26102180,
+                "language": "Kotlin",
+                "last_commit": "2023-02-06T02:57:13Z",
+                "owner": "afollestad",
+                "repo": "material-dialogs",
+                "stars": 19553
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "L-Dialogs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22889461,
+                "language": "Java",
+                "last_commit": "2014-11-08T12:41:24Z",
+                "owner": "lewisjdeane",
+                "repo": "L-Dialogs",
+                "stars": 563
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialStuffLibrary",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25745033,
+                "language": "Java",
+                "last_commit": "2018-10-28T17:08:34Z",
+                "owner": "AndroidDeveloperLB",
+                "repo": "MaterialPreferenceLibrary",
+                "stars": 395
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AlertDialogPro",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23537841,
+                "language": "Java",
+                "last_commit": "2020-04-14T11:02:21Z",
+                "owner": "fengdai",
+                "repo": "AlertDialogPro",
+                "stars": 463
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dialog"
+        }
+      ],
+      "title": "Material Libs"
+    },
+    {
+      "description": "#Thanks to inferjayQichaoChenmiao1007yuebanlsjwzh\n#About Me Weibo: light_skyTwitter: lightSkyStreetBlog: lightskystreet.comEmail: lightsky.cn@gmail.com",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "philm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20968699,
+            "language": "Java",
+            "last_commit": "2020-10-01T17:16:48Z",
+            "owner": "chrisbanes",
+            "repo": "philm",
+            "stars": 2063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InstaMaterial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26450553,
+            "language": "Java",
+            "last_commit": "2020-09-30T19:55:47Z",
+            "owner": "frogermcs",
+            "repo": "InstaMaterial",
+            "stars": 4939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material-Movies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30108534,
+            "language": "Java",
+            "last_commit": "2016-06-23T16:36:27Z",
+            "owner": "saulmm",
+            "repo": "Material-Movies",
+            "stars": 2409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WaniKani-for-Android",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 22783800,
+            "language": "Java",
+            "last_commit": "2022-07-22T13:44:24Z",
+            "owner": "xiprox",
+            "repo": "WaniKani-for-Android",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitLabAndroid",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21402173,
+            "language": "Java",
+            "last_commit": "2016-08-09T12:05:55Z",
+            "owner": "ekx",
+            "repo": "GitLabAndroid",
+            "stars": 192
+          }
+        }
+      ],
+      "title": "Project"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:36:42.078Z",
+    "last_updated": "2026-08-24T13:52:33.297Z",
     "original_repository": "lightSky/Awesome-MaterialDesign",
     "original_repository_id": 26414854,
     "original_repository_sha": "9b2f197fba5f3ba7df13a5f81faa7a6433a70ee1",
