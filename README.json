@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499507
+            "stars": 499673
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57322
+            "stars": 57333
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48835
+            "stars": 48840
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33620
+            "stars": 33623
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2018-03-08T08:57:40Z",
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11216
+            "stars": 11215
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53808
+            "stars": 53812
           }
         },
         {
@@ -452,7 +452,7 @@
                 "last_commit": "2026-08-22T03:35:24Z",
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16243
+                "stars": 16242
               }
             }
           ],
@@ -815,7 +815,7 @@
                 "archived": false,
                 "id": 30120110,
                 "language": "Kotlin",
-                "last_commit": "2026-08-17T21:06:47Z",
+                "last_commit": "2026-08-24T21:06:25Z",
                 "owner": "mikepenz",
                 "repo": "MaterialDrawer",
                 "stars": 11646
@@ -1087,7 +1087,7 @@
                 "last_commit": "2023-12-02T12:28:42Z",
                 "owner": "kyleduo",
                 "repo": "SwitchButton",
-                "stars": 4744
+                "stars": 4745
               }
             },
             {
@@ -1608,7 +1608,7 @@
                 "last_commit": "2023-02-06T02:57:13Z",
                 "owner": "afollestad",
                 "repo": "material-dialogs",
-                "stars": 19553
+                "stars": 19554
               }
             },
             {
@@ -1747,7 +1747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:52:33.297Z",
+    "last_updated": "2026-08-25T04:31:00.870Z",
     "original_repository": "lightSky/Awesome-MaterialDesign",
     "original_repository_id": 26414854,
     "original_repository_sha": "9b2f197fba5f3ba7df13a5f81faa7a6433a70ee1",
