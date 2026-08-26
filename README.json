@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499690
+            "stars": 499977
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57334
+            "stars": 57348
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48840
+            "stars": 48846
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33625
+            "stars": 33624
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-03T13:15:16Z",
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26223
+            "stars": 26222
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-16T16:17:42Z",
             "owner": "willianjusten",
             "repo": "awesome-svg",
-            "stars": 4648
+            "stars": 4649
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2020-12-07T17:39:00Z",
             "owner": "chrisbanes",
             "repo": "cheesesquare",
-            "stars": 7637
+            "stars": 7636
           }
         }
       ],
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53812
+            "stars": 53819
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2025-01-20T01:57:40Z",
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11293
+            "stars": 11294
           }
         },
         {
@@ -407,7 +407,7 @@
                 "last_commit": "2020-12-07T17:39:00Z",
                 "owner": "chrisbanes",
                 "repo": "cheesesquare",
-                "stars": 7637
+                "stars": 7636
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2023-05-28T17:32:11Z",
                 "owner": "navasmdc",
                 "repo": "MaterialDesignLibrary",
-                "stars": 8918
+                "stars": 8916
               }
             },
             {
@@ -452,7 +452,7 @@
                 "last_commit": "2026-08-22T03:35:24Z",
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16242
+                "stars": 16243
               }
             }
           ],
@@ -815,10 +815,10 @@
                 "archived": false,
                 "id": 30120110,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T21:06:25Z",
+                "last_commit": "2026-08-25T06:21:59Z",
                 "owner": "mikepenz",
                 "repo": "MaterialDrawer",
-                "stars": 11646
+                "stars": 11644
               }
             },
             {
@@ -975,7 +975,7 @@
                 "last_commit": "2018-10-12T01:11:20Z",
                 "owner": "florent37",
                 "repo": "MaterialViewPager",
-                "stars": 8073
+                "stars": 8072
               }
             },
             {
@@ -1027,7 +1027,7 @@
                 "last_commit": "2026-04-02T06:20:00Z",
                 "owner": "nico2sh",
                 "repo": "materialish-progress",
-                "stars": 2468
+                "stars": 2467
               }
             },
             {
@@ -1057,7 +1057,7 @@
                 "last_commit": "2017-04-17T22:36:52Z",
                 "owner": "omadahealth",
                 "repo": "SwipyRefreshLayout",
-                "stars": 954
+                "stars": 953
               }
             },
             {
@@ -1087,7 +1087,7 @@
                 "last_commit": "2023-12-02T12:28:42Z",
                 "owner": "kyleduo",
                 "repo": "SwitchButton",
-                "stars": 4745
+                "stars": 4744
               }
             },
             {
@@ -1102,7 +1102,7 @@
                 "last_commit": "2018-05-07T20:54:58Z",
                 "owner": "AnderWeb",
                 "repo": "discreteSeekBar",
-                "stars": 2134
+                "stars": 2133
               }
             },
             {
@@ -1132,7 +1132,7 @@
                 "last_commit": "2023-05-28T16:37:44Z",
                 "owner": "prolificinteractive",
                 "repo": "material-calendarview",
-                "stars": 5900
+                "stars": 5899
               }
             },
             {
@@ -1273,7 +1273,7 @@
                 "last_commit": "2019-04-02T15:42:38Z",
                 "owner": "lgvalle",
                 "repo": "Material-Animations",
-                "stars": 13544
+                "stars": 13542
               }
             }
           ],
@@ -1407,7 +1407,7 @@
                 "last_commit": "2019-04-07T19:32:24Z",
                 "owner": "ozodrukh",
                 "repo": "CircularReveal",
-                "stars": 2400
+                "stars": 2399
               }
             },
             {
@@ -1519,7 +1519,7 @@
                 "last_commit": "2024-03-15T19:22:49Z",
                 "owner": "noties",
                 "repo": "Scrollable",
-                "stars": 1237
+                "stars": 1236
               }
             }
           ],
@@ -1541,7 +1541,7 @@
                 "last_commit": "2016-10-24T02:42:14Z",
                 "owner": "wnafee",
                 "repo": "vector-compat",
-                "stars": 1212
+                "stars": 1211
               }
             },
             {
@@ -1571,7 +1571,7 @@
                 "last_commit": "2022-01-23T05:21:50Z",
                 "owner": "geftimov",
                 "repo": "android-pathview",
-                "stars": 2891
+                "stars": 2890
               }
             },
             {
@@ -1747,7 +1747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:47:22.400Z",
+    "last_updated": "2026-08-26T04:31:56.011Z",
     "original_repository": "lightSky/Awesome-MaterialDesign",
     "original_repository_id": 26414854,
     "original_repository_sha": "9b2f197fba5f3ba7df13a5f81faa7a6433a70ee1",
