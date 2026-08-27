@@ -4,10 +4,10 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 
 \##Other Awesome List
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,363 | 🐛 105 | 📅 2026-08-21
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,363 | 🐛 39 | 📅 2026-06-05
-* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,857 | 🐛 3 | 📅 2026-08-24
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,628 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,408 | 🐛 105 | 📅 2026-08-21
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,367 | 🐛 39 | 📅 2026-06-05
+* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,860 | 🐛 3 | 📅 2026-08-24
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,629 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,226 | 🐛 11 | 🌐 Ruby | 📅 2026-08-03
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,215 | 🐛 12 | 📅 2018-03-08
 * [awesome-android](https://github.com/snowdream/awesome-android) ⚠️ Archived
@@ -95,8 +95,8 @@ Libraries on the github.
 
 ## <a name="Design Res">Design Res</a>
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,824 | 🐛 426 | 📅 2026-08-14
-* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,296 | 🐛 1,109 | 📅 2025-01-20
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,826 | 🐛 426 | 📅 2026-08-14
+* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,296 | 🐛 1,110 | 📅 2025-01-20
 * [TextDrawable](https://github.com/amulyakhare/TextDrawable) ⭐ 3,141 | 🐛 57 | 🌐 Java | 📅 2021-09-02
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,403 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17
 * [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template) ⭐ 434 | 🐛 0 | 🌐 Python | 📅 2016-07-11
@@ -229,7 +229,7 @@ Libraries on the github.
 | [RippleEffect](https://github.com/traex/RippleEffect) ⭐ 4,892 \| 🐛 54 \| 🌐 Java \| 📅 2021-02-04                      | <img src="/demoRes/RippleEffect.gif" width="260" height="150" alt="Screenshot"/>                |
 | [RippleView](https://github.com/siriscac/RippleView) ⭐ 1,135 \| 🐛 13 \| 🌐 Java \| 📅 2017-04-18                       | <img src="/demoRes/RippleView.gif" width="180" height="290" alt="Screenshot"/>                  |
 | [android-ripple-background](https://github.com/skyfishjy/android-ripple-background) ⚠️ Archived                         | <img src="/demoRes/android-ripple-background-a.gif" width="180" height="290" alt="Screenshot"/> |
-| [material-ripple](https://github.com/balysv/material-ripple) ⭐ 2,346 \| 🐛 50 \| 🌐 Java \| 📅 2024-06-11               | <img src="/demoRes/material-ripple-a.gif" width="180" height="290" alt="Screenshot"/>           |
+| [material-ripple](https://github.com/balysv/material-ripple) ⭐ 2,347 \| 🐛 50 \| 🌐 Java \| 📅 2024-06-11               | <img src="/demoRes/material-ripple-a.gif" width="180" height="290" alt="Screenshot"/>           |
 | [PaperStyleWidgets](https://github.com/aNNiMON/PaperStyleWidgets) ⚠️ Archived                                           | <img src="/demoRes/PaperStyleWidgets-a.gif" width="220" height="170" alt="Screenshot"/>         |
 | [material-design-toolkit](https://github.com/twang2218/material-design-toolkit) ⭐ 8 \| 🐛 0 \| 🌐 Java \| 📅 2015-04-22 |                                                                                                 |
 
