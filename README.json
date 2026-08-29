@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500765
+            "stars": 500890,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -26,12 +37,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Android UI/UX libraries",
+            "homepage": null,
             "id": 28428729,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-05T05:39:52Z",
+            "open_issues": 39,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57384
+            "stars": 57392,
+            "topics": [
+              "android",
+              "awesome",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -42,12 +62,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+            "homepage": null,
             "id": 21648001,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-24T00:59:50Z",
+            "open_issues": 3,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48874
+            "stars": 48878,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -58,12 +86,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome awesomeness",
+            "homepage": null,
             "id": 21600440,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
+            "open_issues": 61,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33633
+            "stars": 33634,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -74,12 +107,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
+            "homepage": null,
             "id": 21696302,
             "language": "Ruby",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-03T13:15:16Z",
+            "open_issues": 11,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26230
+            "stars": 26232,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "awesome-swift",
+              "ios",
+              "linux",
+              "list",
+              "lists",
+              "swift",
+              "swift-extensions",
+              "swift-framework",
+              "swift-language",
+              "swift-library"
+            ]
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -90,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome iOS UI/UX libraries",
+            "homepage": null,
             "id": 33538019,
             "language": null,
+            "license": null,
             "last_commit": "2018-03-08T08:57:40Z",
+            "open_issues": 12,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11216
+            "stars": 11216,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -106,12 +163,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "android libs from github or other websites",
+            "homepage": "https://www.itcoder.tech/",
             "id": 23948801,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2020-04-21T13:45:25Z",
+            "open_issues": 7,
             "owner": "snowdream",
             "repo": "awesome-android",
-            "stars": 5902
+            "stars": 5902,
+            "topics": [
+              "android",
+              "android-libs"
+            ]
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -122,12 +187,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of SVG. ",
+            "homepage": null,
             "id": 24217086,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
+            "open_issues": 37,
             "owner": "willianjusten",
             "repo": "awesome-svg",
-            "stars": 4649
+            "stars": 4649,
+            "topics": [
+              "awesome-list",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -138,12 +211,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome resources for coding and learning: open source projects, websites, books e.g.",
+            "homepage": null,
             "id": 29522382,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-12-17T05:12:03Z",
+            "open_issues": 10,
             "owner": "lyfeyaj",
             "repo": "awesome-resources",
-            "stars": 1743
+            "stars": 1743,
+            "topics": [
+              "algorithm",
+              "android",
+              "awesome",
+              "books",
+              "ios",
+              "javascript",
+              "learning",
+              "nodejs",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         }
@@ -160,12 +248,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Migrated:",
+            "homepage": "https://github.com/android/views-widgets",
             "id": 23589547,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-09-10T21:43:41Z",
+            "open_issues": 0,
             "owner": "googlearchive",
             "repo": "android-SwipeRefreshMultipleViews",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -176,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This sample has been deprecated/archived. Check this repo for related samples:",
+            "homepage": "https://github.com/android/user-interface-samples",
             "id": 23343036,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-10-17T23:15:48Z",
+            "open_issues": 0,
             "owner": "googlearchive",
             "repo": "android-FloatingActionButtonBasic",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -192,12 +290,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This sample has been deprecated/archived. Check this repo for related samples:",
+            "homepage": "https://github.com/android/views-widgets-samples",
             "id": 23589545,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-10-04T22:53:04Z",
+            "open_issues": 0,
             "owner": "googlearchive",
             "repo": "android-SwipeRefreshListFragment",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -208,12 +311,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Migrated:",
+            "homepage": "https://github.com/android/animation",
             "id": 23343162,
             "language": null,
+            "license": null,
             "last_commit": "2019-09-04T22:48:52Z",
+            "open_issues": 0,
             "owner": "googlearchive",
             "repo": "android-RevealEffectBasic",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -224,12 +332,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Migrated:",
+            "homepage": "https://github.com/android/animation",
             "id": 25366056,
             "language": null,
+            "license": null,
             "last_commit": "2019-09-04T22:46:54Z",
+            "open_issues": 0,
             "owner": "googlearchive",
             "repo": "android-Interpolator",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -240,12 +353,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Migrated:",
+            "homepage": "https://github.com/android/views-widgets",
             "id": 23589543,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-09-10T21:44:03Z",
+            "open_issues": 0,
             "owner": "googlearchive",
             "repo": "android-SwipeRefreshLayoutBasic",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -256,12 +374,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Migrated:",
+            "homepage": "https://github.com/android/user-interface",
             "id": 21246372,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-09-10T21:33:33Z",
+            "open_issues": 0,
             "owner": "googlearchive",
             "repo": "android-ElevationBasic",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         }
@@ -278,12 +401,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Google I/O Android App",
+            "homepage": null,
             "id": 18347476,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-05T18:35:51Z",
+            "open_issues": 76,
             "owner": "google",
             "repo": "iosched",
-            "stars": 21645
+            "stars": 21646,
+            "topics": [
+              "android",
+              "architecture",
+              "conference",
+              "coroutines",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         }
@@ -300,12 +434,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demos the new Android Design library.",
+            "homepage": null,
             "id": 36470590,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2020-12-07T17:39:00Z",
+            "open_issues": 18,
             "owner": "chrisbanes",
             "repo": "cheesesquare",
-            "stars": 7636
+            "stars": 7636,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         }
@@ -322,12 +461,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material Design icons by Google (Material Symbols)",
+            "homepage": "http://google.github.io/material-design-icons/",
             "id": 24953448,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:47:19Z",
+            "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53832
+            "stars": 53838,
+            "topics": [
+              "android",
+              "icons",
+              "ios",
+              "material",
+              "material-design",
+              "sprites",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -338,12 +490,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✒7000+ Material Design Icons from the Community",
+            "homepage": "https://materialdesignicons.com",
             "id": 21314224,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
+            "open_issues": 1111,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11299
+            "stars": 11299,
+            "topics": [
+              "android",
+              "bootstrap",
+              "donations",
+              "google-material",
+              "icons",
+              "material-design",
+              "svg",
+              "webfonts"
+            ]
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -354,12 +520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This light-weight library provides images with letter/text like the Gmail app. It extends the Drawable class thus can be used with existing/custom/network ImageView classes. Also included is a fluent interface for creating drawables and a customizable ColorGenerator.",
+            "homepage": null,
             "id": 25423296,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-09-02T12:32:50Z",
+            "open_issues": 57,
             "owner": "amulyakhare",
             "repo": "TextDrawable",
-            "stars": 3141
+            "stars": 3141,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -370,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material Design Iconic Font and CSS toolkit",
+            "homepage": "http://zavoloklom.github.io/material-design-iconic-font/",
             "id": 25588324,
             "language": "SCSS",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2023-02-17T18:32:38Z",
+            "open_issues": 64,
             "owner": "zavoloklom",
             "repo": "material-design-iconic-font",
-            "stars": 1403
+            "stars": 1403,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -386,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Studio / Eclipse ADT template for material-design-icons resources",
+            "homepage": null,
             "id": 26113990,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-07-11T08:02:01Z",
+            "open_issues": 0,
             "owner": "intrications",
             "repo": "material-design-icons-adt-template",
-            "stars": 434
+            "stars": 434,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -402,12 +583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy to use material icons for Android",
+            "homepage": null,
             "id": 26957822,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-22T05:41:10Z",
+            "open_issues": 3,
             "owner": "Malinskiy",
             "repo": "android-material-icons",
-            "stars": 384
+            "stars": 384,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         }
@@ -426,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demos the new Android Design library.",
+                "homepage": null,
                 "id": 36470590,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-07T17:39:00Z",
+                "open_issues": 18,
                 "owner": "chrisbanes",
                 "repo": "cheesesquare",
-                "stars": 7636
+                "stars": 7636,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -442,12 +633,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a library with components of Android L to you use in android 2.2",
+                "homepage": null,
                 "id": 24628923,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-28T17:32:11Z",
+                "open_issues": 253,
                 "owner": "navasmdc",
                 "repo": "MaterialDesignLibrary",
-                "stars": 8916
+                "stars": 8916,
+                "topics": [
+                  "android",
+                  "material-design"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -458,12 +657,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A library to bring fully animated Material Design components to pre-Lolipop Android. ",
+                "homepage": "http://rey5137.com/material/",
                 "id": 27764811,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-28T15:35:01Z",
+                "open_issues": 214,
                 "owner": "rey5137",
                 "repo": "material",
-                "stars": 5948
+                "stars": 5948,
+                "topics": [
+                  "android",
+                  "java",
+                  "material"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -474,12 +682,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google's Material Design in XAML & WPF, for C# & VB.Net. ",
+                "homepage": null,
                 "id": 30474266,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T06:13:36Z",
+                "open_issues": 146,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16249
+                "stars": 16249,
+                "topics": [
+                  "c-sharp",
+                  "design",
+                  "dragablz",
+                  "hacktoberfest",
+                  "hacktoberfest2020",
+                  "material",
+                  "material-design",
+                  "theme",
+                  "wpf",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -497,12 +721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 34161476,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-11-22T23:29:50Z",
+                "open_issues": 4,
                 "owner": "saulmm",
                 "repo": "Curved-Fab-Reveal-Example",
-                "stars": 1134
+                "stars": 1134,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -513,12 +742,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A simple app to showcase Androids Material Design and some of the cool new cool stuff in Android Lollipop. RecyclerView, CardView, ActionBarDrawerToggle, DrawerLayout, Animations, Android Compat Design, Toolbar",
+                "homepage": "http://mikepenz.github.io/LollipopShowcase",
                 "id": 25601444,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-01-02T17:14:06Z",
+                "open_issues": 0,
                 "owner": "mikepenz",
                 "repo": "LollipopShowcase",
-                "stars": 1731
+                "stars": 1731,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -529,12 +763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android demo for the Material Witness talk presented at Google I/O ported to work from Android 2.3.3 (API Level 10) & up",
+                "homepage": null,
                 "id": 23647078,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2015-01-04T08:43:35Z",
+                "open_issues": 0,
                 "owner": "unrarp",
                 "repo": "google-io-2014-compat",
-                "stars": 327
+                "stars": 327,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -545,12 +784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo for the Material Witness talk I gave at Google I/O.",
+                "homepage": null,
                 "id": 21266028,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2014-12-08T19:44:28Z",
+                "open_issues": 2,
                 "owner": "romainguy",
                 "repo": "google-io-2014",
-                "stars": 1248
+                "stars": 1249,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -561,12 +805,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Sample Project with Material Design and Toolbar.",
+                "homepage": null,
                 "id": 26119423,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2020-10-17T20:09:51Z",
+                "open_issues": 1,
                 "owner": "tekinarslan",
                 "repo": "AndroidMaterialDesignToolbar",
-                "stars": 711
+                "stars": 711,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -577,12 +826,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project is focused on the sample using the API's new preview version of Android-L, use of transitions, shadows etc...",
+                "homepage": null,
                 "id": 21524303,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-07-06T11:39:00Z",
+                "open_issues": 0,
                 "owner": "saulmm",
                 "repo": "Android-L-Preview-Concepts",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -593,12 +847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenLibra client on Material Design",
+                "homepage": null,
                 "id": 26664321,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-09-09T21:43:40Z",
+                "open_issues": 0,
                 "owner": "saulmm",
                 "repo": "OpenLibra-Material",
-                "stars": 358
+                "stars": 358,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -609,12 +868,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Showcase of the new AppCompat 21, which includes new Material Theme, working in pre-21 devices.",
+                "homepage": null,
                 "id": 25372139,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2020-01-21T23:33:51Z",
+                "open_issues": 2,
                 "owner": "antoniolg",
                 "repo": "MaterialEverywhere",
-                "stars": 1272
+                "stars": 1272,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -625,12 +889,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Deprecated] Little bites of Material Design",
+                "homepage": null,
                 "id": 25166410,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2016-04-19T09:14:57Z",
+                "open_issues": 10,
                 "owner": "saulmm",
                 "repo": "Android-Material-Examples",
-                "stars": 2797
+                "stars": 2797,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -641,12 +910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 21523856,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-09-22T14:05:59Z",
+                "open_issues": 1,
                 "owner": "rejasupotaro",
                 "repo": "MaterialDesignSample",
-                "stars": 345
+                "stars": 345,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -657,12 +931,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A sample android app demonstrating how to achieve a material style action bar on older android versions — DEPRECATED",
+                "homepage": null,
                 "id": 25034917,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-11-05T15:48:44Z",
+                "open_issues": 0,
                 "owner": "xiprox",
                 "repo": "Material-Action-Bar-Sample",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -673,12 +952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Duplicate project to MaterialDesign, BUT meant for non Android L devices.",
+                "homepage": null,
                 "id": 23346365,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2014-08-26T01:11:36Z",
+                "open_issues": 0,
                 "owner": "shawwinbin",
                 "repo": "MaterialDesignSupport",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -696,12 +980,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[DEPRECATED]",
+                "homepage": null,
                 "id": 21435983,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2015-04-09T21:45:01Z",
+                "open_issues": 10,
                 "owner": "faizmalkani",
                 "repo": "Fabulous",
-                "stars": 478
+                "stars": 478,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -712,12 +1001,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[DEPRECATED] Android floating action button",
+                "homepage": null,
                 "id": 22105003,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2023-05-28T15:33:21Z",
+                "open_issues": 78,
                 "owner": "makovkastar",
                 "repo": "FloatingActionButton",
-                "stars": 3964
+                "stars": 3964,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -728,12 +1022,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I'm not a Gif maker, I'm a developer",
+                "homepage": null,
                 "id": 22687767,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-02-06T13:02:20Z",
+                "open_issues": 0,
                 "owner": "flavienlaurent",
                 "repo": "tickplusdrawable",
-                "stars": 267
+                "stars": 267,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -744,12 +1043,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Animated Material circular button",
+                "homepage": null,
                 "id": 22035763,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-04-18T07:58:35Z",
+                "open_issues": 2,
                 "owner": "glomadrian",
                 "repo": "Android-Material-circular-button",
-                "stars": 213
+                "stars": 213,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -760,12 +1064,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android Floating Action Button based on Material Design specification",
+                "homepage": null,
                 "id": 32631353,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-07-11T20:43:07Z",
+                "open_issues": 231,
                 "owner": "Clans",
                 "repo": "FloatingActionButton",
-                "stars": 5176
+                "stars": 5176,
+                "topics": [
+                  "android",
+                  "floatingactionbutton"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -776,12 +1088,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quick solutions for Floating Action Button，RapidFloatingActionButton（RFAB）",
+                "homepage": null,
                 "id": 34777489,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-09T12:40:58Z",
+                "open_issues": 41,
                 "owner": "wangjiegulu",
                 "repo": "RapidFloatingActionButton",
-                "stars": 1281
+                "stars": 1281,
+                "topics": [
+                  "animation",
+                  "custom-view",
+                  "floatingactionbutton",
+                  "rapidfloatingactionbutton"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -799,12 +1121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android UI library.",
+                "homepage": null,
                 "id": 24288133,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-09-19T12:52:07Z",
+                "open_issues": 12,
                 "owner": "markushi",
                 "repo": "android-ui",
-                "stars": 2184
+                "stars": 2184,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -815,12 +1142,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[deprecated] Animations for Android L drawer, back, dismiss and check icons",
+                "homepage": null,
                 "id": 21690229,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-11T07:51:24Z",
+                "open_issues": 10,
                 "owner": "balysv",
                 "repo": "material-menu",
-                "stars": 2449
+                "stars": 2449,
+                "topics": [
+                  "android",
+                  "animation",
+                  "drawer",
+                  "icon-states",
+                  "icons",
+                  "java",
+                  "material-menu"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -831,12 +1171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual back-port of the rotating drawer-to-arrow drawable from Android L",
+                "homepage": null,
                 "id": 25144435,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-07-08T12:30:06Z",
+                "open_issues": 13,
                 "owner": "ChrisRenke",
                 "repo": "DrawerArrowDrawable",
-                "stars": 818
+                "stars": 818,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -847,12 +1192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android drawer icon with material design animation",
+                "homepage": null,
                 "id": 25119308,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-10-25T16:14:28Z",
+                "open_issues": 8,
                 "owner": "keklikhasan",
                 "repo": "LDrawer",
-                "stars": 1374
+                "stars": 1374,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -863,12 +1213,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.",
+                "homepage": "https://mikepenz.dev",
                 "id": 30120110,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T06:21:59Z",
+                "open_issues": 12,
                 "owner": "mikepenz",
                 "repo": "MaterialDrawer",
-                "stars": 11642
+                "stars": 11642,
+                "topics": [
+                  "android",
+                  "android-development",
+                  "android-library",
+                  "android-ui",
+                  "drawer",
+                  "drawer-support",
+                  "drawerlayout",
+                  "hacktoberfest",
+                  "java",
+                  "material-components",
+                  "material-design",
+                  "material-theme",
+                  "material-ui",
+                  "materialdrawer",
+                  "mikepenz",
+                  "navigation-drawer"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -879,12 +1251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Android template with navigation drawer for material design",
+                "homepage": null,
                 "id": 25682021,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-12T18:09:30Z",
+                "open_issues": 9,
                 "owner": "kanytu",
                 "repo": "android-material-drawer-template",
-                "stars": 665
+                "stars": 665,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -895,12 +1272,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Custom Tabs with Material Design effects",
+                "homepage": null,
                 "id": 25553681,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-12T01:46:41Z",
+                "open_issues": 55,
                 "owner": "neokree",
                 "repo": "MaterialTabs",
-                "stars": 1383
+                "stars": 1383,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -911,12 +1293,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Library allowing you to easily replicate the new style of navigation drawer from Android L.",
+                "homepage": null,
                 "id": 23296172,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-08-25T09:58:32Z",
+                "open_issues": 3,
                 "owner": "lewisjdeane",
                 "repo": "L-Navigation-Drawer",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -927,12 +1314,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Navigation Drawer Activity with material design style and simplified methods",
+                "homepage": null,
                 "id": 26396162,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2015-12-22T18:30:00Z",
+                "open_issues": 10,
                 "owner": "neokree",
                 "repo": "MaterialNavigationDrawer",
-                "stars": 1541
+                "stars": 1541,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -943,12 +1335,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library Navigation drawer material design",
+                "homepage": null,
                 "id": 28795278,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2021-03-26T08:53:54Z",
+                "open_issues": 22,
                 "owner": "zirouan",
                 "repo": "NavigationDrawer-MaterialDesign",
-                "stars": 1046
+                "stars": 1046,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -959,12 +1356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy generator of Floating Action Button (FAB) for Android based on Material Design",
+                "homepage": "http://www.google.com/design/spec/patterns/promoted-actions.html#promoted-actions-floating-action-button",
                 "id": 23769280,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-10-02T10:17:57Z",
+                "open_issues": 1,
                 "owner": "onivas",
                 "repo": "MenuAnimation",
-                "stars": 210
+                "stars": 210,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -975,12 +1377,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "I like the new Navigation Drawer introduced in the new Play Store app, so I wanted it in my own app.",
+                "homepage": null,
                 "id": 25398331,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-10-18T13:49:58Z",
+                "open_issues": 0,
                 "owner": "DympyDev",
                 "repo": "Material_Navigationdrawer",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -991,12 +1398,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom drawer implementation for Material design apps.",
+                "homepage": null,
                 "id": 26513427,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2024-10-14T13:27:30Z",
+                "open_issues": 7,
                 "owner": "janheinrichmerker",
                 "repo": "material-drawer",
-                "stars": 592
+                "stars": 592,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "custom-drawer",
+                  "java",
+                  "jitpack",
+                  "material-components",
+                  "material-design",
+                  "material-drawer"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -1014,12 +1435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material风格ImageView",
+                "homepage": null,
                 "id": 31495654,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2015-03-03T22:38:01Z",
+                "open_issues": 2,
                 "owner": "zhaozhentao",
                 "repo": "MaterialImageView",
-                "stars": 326
+                "stars": 326,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1030,12 +1456,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Material Design ViewPager easy to use library",
+                "homepage": "https://www.fiches-plateau-moto.fr",
                 "id": 34533286,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-10-12T01:11:20Z",
+                "open_issues": 183,
                 "owner": "florent37",
                 "repo": "MaterialViewPager",
-                "stars": 8072
+                "stars": 8072,
+                "topics": [
+                  "android",
+                  "java",
+                  "kenburnsview",
+                  "material",
+                  "materialviewpager",
+                  "parallax",
+                  "scroll",
+                  "toolbar",
+                  "viewpager"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1046,12 +1487,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] A simple backward-compatible implementation of a Material Design Preference aka settings item",
+                "homepage": null,
                 "id": 30039149,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2017-03-04T14:49:54Z",
+                "open_issues": 6,
                 "owner": "jenzz",
                 "repo": "Android-MaterialPreference",
-                "stars": 504
+                "stars": 504,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1062,12 +1508,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple implementation of swipe card like StreetView",
+                "homepage": null,
                 "id": 47075567,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-04-21T07:39:16Z",
+                "open_issues": 6,
                 "owner": "michelelacorte",
                 "repo": "SwipeableCard",
-                "stars": 837
+                "stars": 837,
+                "topics": [
+                  "android",
+                  "android-ui",
+                  "card",
+                  "credit-card",
+                  "java",
+                  "library",
+                  "library-free",
+                  "maps-card",
+                  "swipe-cards"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -1085,12 +1546,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A material style progress wheel compatible with 2.3",
+                "homepage": null,
                 "id": 26682353,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-02T06:20:00Z",
+                "open_issues": 19,
                 "owner": "nico2sh",
                 "repo": "materialish-progress",
-                "stars": 2467
+                "stars": 2467,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1101,12 +1567,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MaterialLoadingProgressBar   provide a styled ProgressBar which looks  like SwipeRefreshLayout's loading indicator(support-v4  v21+)",
+                "homepage": null,
                 "id": 30398782,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-02T06:40:32Z",
+                "open_issues": 7,
                 "owner": "lsjwzh",
                 "repo": "MaterialLoadingProgressBar",
-                "stars": 1087
+                "stars": 1087,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1117,12 +1588,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A SwipeRefreshLayout extension that allows to swipe in both direction",
+                "homepage": null,
                 "id": 29753546,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2017-04-17T22:36:52Z",
+                "open_issues": 13,
                 "owner": "omadahealth",
                 "repo": "SwipyRefreshLayout",
-                "stars": 953
+                "stars": 953,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1133,12 +1609,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MaterialSettings - small library to create settings activity",
+                "homepage": null,
                 "id": 32350715,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2015-04-08T18:21:37Z",
+                "open_issues": 8,
                 "owner": "kenumir",
                 "repo": "MaterialSettings",
-                "stars": 359
+                "stars": 359,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1149,12 +1630,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cute widget of Switch Button for  you to create beautiful and friendly UI.",
+                "homepage": null,
                 "id": 23823503,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-12-02T12:28:42Z",
+                "open_issues": 22,
                 "owner": "kyleduo",
                 "repo": "SwitchButton",
-                "stars": 4745
+                "stars": 4745,
+                "topics": [
+                  "android",
+                  "switchbutton",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1165,12 +1655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 27277596,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-07T20:54:58Z",
+                "open_issues": 80,
                 "owner": "AnderWeb",
                 "repo": "discreteSeekBar",
-                "stars": 2133
+                "stars": 2133,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1181,12 +1676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android widget for selecting a range of values.",
+                "homepage": null,
                 "id": 24868009,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-09T06:32:19Z",
+                "open_issues": 96,
                 "owner": "oli107",
                 "repo": "material-range-bar",
-                "stars": 1662
+                "stars": 1662,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1197,12 +1697,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Material design back port of Android's CalendarView",
+                "homepage": "https://prolificinteractive.github.io/material-calendarview/",
                 "id": 30562287,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2023-05-28T16:37:44Z",
+                "open_issues": 252,
                 "owner": "prolificinteractive",
                 "repo": "material-calendarview",
-                "stars": 5899
+                "stars": 5899,
+                "topics": [
+                  "android",
+                  "calendar",
+                  "java",
+                  "material"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1213,12 +1723,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library creates spinners for Android that really work",
+                "homepage": null,
                 "id": 32776501,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-09-08T21:07:44Z",
+                "open_issues": 70,
                 "owner": "Lesilva",
                 "repo": "BetterSpinner",
-                "stars": 718
+                "stars": 718,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -1236,12 +1751,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "EditText in Material Design",
+                "homepage": null,
                 "id": 25965034,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-03-28T03:48:37Z",
+                "open_issues": 195,
                 "owner": "rengwuxian",
                 "repo": "MaterialEditText",
-                "stars": 6075
+                "stars": 6075,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1252,12 +1772,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library: Backport of Android L / Material Design Text Field",
+                "homepage": null,
                 "id": 25067022,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-10-22T05:06:37Z",
+                "open_issues": 1,
                 "owner": "zst123",
                 "repo": "MaterialTextField",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -1275,12 +1800,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SnackBar messages for Android Applications",
+                "homepage": null,
                 "id": 24434886,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2015-06-01T18:33:33Z",
+                "open_issues": 0,
                 "owner": "Kennyc1012",
                 "repo": "SnackBar",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1291,12 +1821,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] Android Library that implements Snackbars from Google's Material Design documentation.",
+                "homepage": null,
                 "id": 23088566,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2015-09-21T02:04:52Z",
+                "open_issues": 37,
                 "owner": "nispok",
                 "repo": "snackbar",
-                "stars": 1513
+                "stars": 1513,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -1314,12 +1849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Set of extra Transitions on top of Jetpack Transitions Library",
+                "homepage": null,
                 "id": 25237608,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-04-08T09:39:05Z",
+                "open_issues": 7,
                 "owner": "andkulikov",
                 "repo": "Transitions-Everywhere",
-                "stars": 4781
+                "stars": 4781,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1330,12 +1870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple tool which help you to implement activity and fragment transition for pre-Lollipop devices.",
+                "homepage": null,
                 "id": 32875196,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-04-29T09:59:12Z",
+                "open_issues": 9,
                 "owner": "takahirom",
                 "repo": "PreLollipopTransition",
-                "stars": 1290
+                "stars": 1290,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1346,12 +1891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Transition animations explanation with examples.",
+                "homepage": null,
                 "id": 31865176,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2019-04-02T15:42:38Z",
+                "open_issues": 20,
                 "owner": "lgvalle",
                 "repo": "Material-Animations",
-                "stars": 13541
+                "stars": 13541,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -1369,12 +1919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Ripple effect from Material Design for Android API 9+",
+                "homepage": null,
                 "id": 25208398,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2021-02-04T10:54:44Z",
+                "open_issues": 54,
                 "owner": "traex",
                 "repo": "RippleEffect",
-                "stars": 4892
+                "stars": 4892,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1385,12 +1940,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "View that imitates Ripple Effect on click which was introduced in Android L  (for Android 2.3+)",
+                "homepage": null,
                 "id": 23802879,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-04-18T10:30:21Z",
+                "open_issues": 13,
                 "owner": "siriscac",
                 "repo": "RippleView",
-                "stars": 1135
+                "stars": 1135,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "android-ui",
+                  "java",
+                  "ripple",
+                  "rippleview"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1401,12 +1968,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A beautiful ripple animation for your app",
+                "homepage": null,
                 "id": 26302821,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2019-10-11T15:25:48Z",
+                "open_issues": 36,
                 "owner": "skyfishjy",
                 "repo": "android-ripple-background",
-                "stars": 2244
+                "stars": 2244,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1417,12 +1989,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[deprecated] Android L Ripple effect wrapper for Views",
+                "homepage": null,
                 "id": 24117407,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-11T07:50:55Z",
+                "open_issues": 50,
                 "owner": "balysv",
                 "repo": "material-ripple",
-                "stars": 2347
+                "stars": 2347,
+                "topics": [
+                  "android",
+                  "java",
+                  "material-ripple",
+                  "ripple",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1433,12 +2016,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android material-design widgets",
+                "homepage": null,
                 "id": 22961178,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2015-05-09T16:19:23Z",
+                "open_issues": 1,
                 "owner": "aNNiMON",
                 "repo": "PaperStyleWidgets",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1449,12 +2037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of some building blocks for Material Design",
+                "homepage": null,
                 "id": 24587773,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2015-04-22T12:17:24Z",
+                "open_issues": 0,
                 "owner": "twang2218",
                 "repo": "material-design-toolkit",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -1472,12 +2065,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android UI library.",
+                "homepage": null,
                 "id": 24288133,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-09-19T12:52:07Z",
+                "open_issues": 12,
                 "owner": "markushi",
                 "repo": "android-ui",
-                "stars": 2184
+                "stars": 2184,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1488,12 +2086,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lollipop ViewAnimationUtils.createCircularReveal for everyone 4.0+",
+                "homepage": null,
                 "id": 26807221,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2019-04-07T19:32:24Z",
+                "open_issues": 26,
                 "owner": "ozodrukh",
                 "repo": "CircularReveal",
-                "stars": 2399
+                "stars": 2399,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "animation",
+                  "circularreveal",
+                  "lollipop"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1504,12 +2113,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A layout which can make some reveal animation which is introduced in material design guideline.",
+                "homepage": null,
                 "id": 26954989,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-03-23T19:12:16Z",
+                "open_issues": 2,
                 "owner": "kyze8439690",
                 "repo": "RevealLayout",
-                "stars": 367
+                "stars": 367,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1520,12 +2134,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "How to do reveal a fragment with a circular reveal",
+                "homepage": null,
                 "id": 171673721,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-02-20T13:27:07Z",
+                "open_issues": 0,
                 "owner": "ferdy182",
                 "repo": "Android-CircularRevealFragment",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "android",
+                  "animations",
+                  "fragments"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1536,12 +2159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ViewAnimator view with a lollipop style reveal effect",
+                "homepage": null,
                 "id": 26656801,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-02-20T16:21:38Z",
+                "open_issues": 1,
                 "owner": "sephiroth74",
                 "repo": "ViewRevealAnimator",
-                "stars": 329
+                "stars": 329,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -1559,12 +2187,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android library to observe scroll events on scrollable views.",
+                "homepage": "http://ksoichiro.github.io/Android-ObservableScrollView/",
                 "id": 26363421,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-06-01T03:54:51Z",
+                "open_issues": 177,
                 "owner": "ksoichiro",
                 "repo": "Android-ObservableScrollView",
-                "stars": 9608
+                "stars": 9608,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "android-ui",
+                  "material-design"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1575,12 +2213,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": "http://relex.me/viewpagerheaderdemo",
                 "id": 27823616,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-12-20T07:55:05Z",
+                "open_issues": 0,
                 "owner": "ongakuer",
                 "repo": "ViewPagerHeaderScrollDemo",
-                "stars": 309
+                "stars": 309,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1591,12 +2234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material Design文字缩放入Toolbar的一种实现",
+                "homepage": null,
                 "id": 34720806,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-04-29T10:43:05Z",
+                "open_issues": 0,
                 "owner": "yueban",
                 "repo": "MaterialTextScaleToolbarDemo",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1607,12 +2255,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android scrollable tabs",
+                "homepage": null,
                 "id": 33073963,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-15T19:22:49Z",
+                "open_issues": 3,
                 "owner": "noties",
                 "repo": "Scrollable",
-                "stars": 1236
+                "stars": 1236,
+                "topics": [
+                  "android",
+                  "scrollable",
+                  "scrolling-tabs",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -1630,12 +2288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A support library for VectorDrawable and AnimatedVectorDrawable classes introduced in Lollipop",
+                "homepage": null,
                 "id": 33611781,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2016-10-24T02:42:14Z",
+                "open_issues": 25,
                 "owner": "wnafee",
                 "repo": "vector-compat",
-                "stars": 1211
+                "stars": 1211,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1646,12 +2309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android AnimatedVectorDrawable examples",
+                "homepage": null,
                 "id": 25480910,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2014-12-04T21:58:12Z",
+                "open_issues": 3,
                 "owner": "chiuki",
                 "repo": "animated-vector-drawable",
-                "stars": 323
+                "stars": 323,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1662,12 +2330,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android view with both path from constructed path or from svg.",
+                "homepage": null,
                 "id": 29536194,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-23T05:21:50Z",
+                "open_issues": 9,
                 "owner": "geftimov",
                 "repo": "android-pathview",
-                "stars": 2890
+                "stars": 2890,
+                "topics": [
+                  "android",
+                  "android-pathview",
+                  "animation",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1678,12 +2356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Loading icons and small animations built with pure SVG.",
+                "homepage": "http://samherbert.net/svg-loaders",
                 "id": 26890199,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-01-02T15:41:35Z",
+                "open_issues": 15,
                 "owner": "SamHerbert",
                 "repo": "SVG-Loaders",
-                "stars": 7026
+                "stars": 7026,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -1701,12 +2384,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.",
+                "homepage": "https://af.codes",
                 "id": 26102180,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-06T02:57:13Z",
+                "open_issues": 111,
                 "owner": "afollestad",
                 "repo": "material-dialogs",
-                "stars": 19554
+                "stars": 19554,
+                "topics": [
+                  "alert",
+                  "android",
+                  "androidx",
+                  "bottomsheets",
+                  "dialogs",
+                  "kotlin",
+                  "material-design"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1717,12 +2413,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A small library replicating the new dialogs in android L.",
+                "homepage": null,
                 "id": 22889461,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-11-08T12:41:24Z",
+                "open_issues": 13,
                 "owner": "lewisjdeane",
                 "repo": "L-Dialogs",
-                "stars": 563
+                "stars": 563,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1733,12 +2434,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Allows to have an ActionBar on PreferenceActivity",
+                "homepage": null,
                 "id": 25745033,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-10-28T17:08:34Z",
+                "open_issues": 0,
                 "owner": "AndroidDeveloperLB",
                 "repo": "MaterialPreferenceLibrary",
-                "stars": 394
+                "stars": 394,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             },
@@ -1749,12 +2455,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Deprecated] This project can make it easy to theme and custom Android's dialog. Also provides Holo and Material themes for old devices.",
+                "homepage": null,
                 "id": 23537841,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2020-04-14T11:02:21Z",
+                "open_issues": 13,
                 "owner": "fengdai",
                 "repo": "AlertDialogPro",
-                "stars": 463
+                "stars": 463,
+                "topics": [
+                  "android",
+                  "dialog",
+                  "material-theme"
+                ]
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
             }
@@ -1776,12 +2491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Movie collection and information app for Android.",
+            "homepage": null,
             "id": 20968699,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-10-01T17:16:48Z",
+            "open_issues": 11,
             "owner": "chrisbanes",
             "repo": "philm",
-            "stars": 2063
+            "stars": 2063,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -1792,12 +2512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)",
+            "homepage": null,
             "id": 26450553,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-09-30T19:55:47Z",
+            "open_issues": 35,
             "owner": "frogermcs",
             "repo": "InstaMaterial",
-            "stars": 4938
+            "stars": 4938,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -1808,12 +2533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Deprecated] An application about movies with material design",
+            "homepage": null,
             "id": 30108534,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-06-23T16:36:27Z",
+            "open_issues": 15,
             "owner": "saulmm",
             "repo": "Material-Movies",
-            "stars": 2409
+            "stars": 2409,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -1824,12 +2554,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An android client application for the awesome kanji learning website wanikani.com",
+            "homepage": null,
             "id": 22783800,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-22T13:44:24Z",
+            "open_issues": 14,
             "owner": "xiprox",
             "repo": "WaniKani-for-Android",
-            "stars": 507
+            "stars": 507,
+            "topics": [
+              "android",
+              "japanese",
+              "kanji",
+              "material-design",
+              "wanikani"
+            ]
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         },
@@ -1840,12 +2581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial GitLab client for Android",
+            "homepage": null,
             "id": 21402173,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-08-09T12:05:55Z",
+            "open_issues": 19,
             "owner": "ekx",
             "repo": "GitLabAndroid",
-            "stars": 192
+            "stars": 192,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
         }
@@ -1854,15 +2600,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:48:43.093Z",
+    "last_updated": "2026-08-29T04:19:36.574Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of material design libs and res.",
+      "homepage": null,
       "id": 26414854,
       "language": null,
+      "license": null,
       "last_commit": "2018-01-06T10:37:47Z",
+      "open_issues": 15,
       "owner": "lightSky",
       "repo": "Awesome-MaterialDesign",
-      "stars": 5863
+      "stars": 5863,
+      "topics": []
     },
     "original_repository_sha": "9b2f197fba5f3ba7df13a5f81faa7a6433a70ee1",
     "enhanced_repository": "enhansome/enhansome-Awesome-MaterialDesign",
