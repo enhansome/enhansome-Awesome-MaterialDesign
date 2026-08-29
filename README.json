@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500890,
+            "stars": 500962,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 39,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57392,
+            "stars": 57394,
             "topics": [
               "android",
               "awesome",
@@ -71,7 +71,7 @@
             "open_issues": 3,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48878,
+            "stars": 48880,
             "topics": [
               "awesome",
               "awesome-list"
@@ -92,10 +92,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33634,
+            "stars": 33636,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -193,7 +193,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "willianjusten",
             "repo": "awesome-svg",
             "stars": 4649,
@@ -410,7 +410,7 @@
             "open_issues": 76,
             "owner": "google",
             "repo": "iosched",
-            "stars": 21646,
+            "stars": 21647,
             "topics": [
               "android",
               "architecture",
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:19:36.574Z",
+    "last_updated": "2026-08-29T10:36:48.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
