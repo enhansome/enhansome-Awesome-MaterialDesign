@@ -4,14 +4,14 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 
 \##Other Awesome List
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,277 | 🐛 105 | 📅 2026-08-21
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,412 | 🐛 39 | 📅 2026-06-05
-* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,892 | 🐛 4 | 📅 2026-08-24
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,638 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,573 | 🐛 105 | 📅 2026-08-21
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,417 | 🐛 39 | 📅 2026-06-05
+* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,898 | 🐛 4 | 📅 2026-08-24
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,637 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,235 | 🐛 11 | 🌐 Ruby | 📅 2026-08-03
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,216 | 🐛 12 | 📅 2018-03-08
 * [awesome-android](https://github.com/snowdream/awesome-android) ⚠️ Archived
-* [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,649 | 🐛 38 | 🌐 Shell | 📅 2026-07-16
+* [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,649 | 🐛 39 | 🌐 Shell | 📅 2026-07-16
 * [awesome-resources](https://github.com/lyfeyaj/awesome-resources) ⭐ 1,744 | 🐛 10 | 🌐 HTML | 📅 2022-12-17
 
 ## List of Awesome-MaterialDesign
@@ -95,8 +95,8 @@ Libraries on the github.
 
 ## <a name="Design Res">Design Res</a>
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,846 | 🐛 426 | 📅 2026-08-28
-* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,301 | 🐛 1,112 | 📅 2025-01-20
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,848 | 🐛 426 | 📅 2026-08-28
+* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,303 | 🐛 1,113 | 📅 2025-01-20
 * [TextDrawable](https://github.com/amulyakhare/TextDrawable) ⭐ 3,141 | 🐛 57 | 🌐 Java | 📅 2021-09-02
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,403 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17
 * [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template) ⭐ 434 | 🐛 0 | 🌐 Python | 📅 2016-07-11
@@ -297,4 +297,4 @@ Email: <lightsky.cn@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
