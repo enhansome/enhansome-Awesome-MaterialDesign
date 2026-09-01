@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501573,
+            "stars": 501832,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 39,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57417,
+            "stars": 57420,
             "topics": [
               "android",
               "awesome",
@@ -71,7 +71,7 @@
             "open_issues": 4,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48898,
+            "stars": 48904,
             "topics": [
               "awesome",
               "awesome-list"
@@ -95,7 +95,7 @@
             "open_issues": 62,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33637,
+            "stars": 33639,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -112,11 +112,11 @@
             "id": 21696302,
             "language": "Ruby",
             "license": "CC0-1.0",
-            "last_commit": "2026-08-03T13:15:16Z",
+            "last_commit": "2026-09-01T05:37:47Z",
             "open_issues": 11,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26235,
+            "stars": 26234,
             "topics": [
               "awesome",
               "awesome-list",
@@ -470,7 +470,7 @@
             "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53848,
+            "stars": 53855,
             "topics": [
               "android",
               "icons",
@@ -499,7 +499,7 @@
             "open_issues": 1113,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11303,
+            "stars": 11302,
             "topics": [
               "android",
               "bootstrap",
@@ -1218,7 +1218,7 @@
                 "id": 30120110,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-25T06:21:59Z",
+                "last_commit": "2026-09-01T06:04:25Z",
                 "open_issues": 12,
                 "owner": "mikepenz",
                 "repo": "MaterialDrawer",
@@ -2521,7 +2521,7 @@
             "open_issues": 35,
             "owner": "frogermcs",
             "repo": "InstaMaterial",
-            "stars": 4938,
+            "stars": 4937,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:18:29.999Z",
+    "last_updated": "2026-09-01T09:02:20.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
