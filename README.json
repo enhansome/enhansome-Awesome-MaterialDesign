@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 502149,
+            "stars": 502517,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 39,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57430,
+            "stars": 57448,
             "topics": [
               "android",
               "awesome",
@@ -68,10 +68,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-24T00:59:50Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48911,
+            "stars": 48917,
             "topics": [
               "awesome",
               "awesome-list"
@@ -95,7 +95,7 @@
             "open_issues": 62,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33641,
+            "stars": 33644,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -113,10 +113,10 @@
             "language": "Ruby",
             "license": "CC0-1.0",
             "last_commit": "2026-09-01T05:37:47Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26237,
+            "stars": 26239,
             "topics": [
               "awesome",
               "awesome-list",
@@ -151,7 +151,7 @@
             "open_issues": 12,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11214,
+            "stars": 11215,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -193,7 +193,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "willianjusten",
             "repo": "awesome-svg",
             "stars": 4648,
@@ -410,7 +410,7 @@
             "open_issues": 76,
             "owner": "google",
             "repo": "iosched",
-            "stars": 21646,
+            "stars": 21645,
             "topics": [
               "android",
               "architecture",
@@ -470,7 +470,7 @@
             "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53857,
+            "stars": 53861,
             "topics": [
               "android",
               "icons",
@@ -496,10 +496,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
-            "open_issues": 1113,
+            "open_issues": 1114,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11302,
+            "stars": 11304,
             "topics": [
               "android",
               "bootstrap",
@@ -529,7 +529,7 @@
             "open_issues": 57,
             "owner": "amulyakhare",
             "repo": "TextDrawable",
-            "stars": 3141,
+            "stars": 3140,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -691,7 +691,7 @@
                 "open_issues": 146,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16251,
+                "stars": 16249,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -1073,7 +1073,7 @@
                 "open_issues": 231,
                 "owner": "Clans",
                 "repo": "FloatingActionButton",
-                "stars": 5177,
+                "stars": 5176,
                 "topics": [
                   "android",
                   "floatingactionbutton"
@@ -1148,7 +1148,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2024-06-11T07:51:24Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "balysv",
                 "repo": "material-menu",
                 "stars": 2449,
@@ -1900,7 +1900,7 @@
                 "open_issues": 20,
                 "owner": "lgvalle",
                 "repo": "Material-Animations",
-                "stars": 13540,
+                "stars": 13541,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -1998,7 +1998,7 @@
                 "open_issues": 50,
                 "owner": "balysv",
                 "repo": "material-ripple",
-                "stars": 2347,
+                "stars": 2346,
                 "topics": [
                   "android",
                   "java",
@@ -2196,7 +2196,7 @@
                 "open_issues": 177,
                 "owner": "ksoichiro",
                 "repo": "Android-ObservableScrollView",
-                "stars": 9608,
+                "stars": 9607,
                 "topics": [
                   "android",
                   "android-library",
@@ -2393,7 +2393,7 @@
                 "open_issues": 111,
                 "owner": "afollestad",
                 "repo": "material-dialogs",
-                "stars": 19552,
+                "stars": 19551,
                 "topics": [
                   "alert",
                   "android",
@@ -2563,7 +2563,7 @@
             "open_issues": 14,
             "owner": "xiprox",
             "repo": "WaniKani-for-Android",
-            "stars": 507,
+            "stars": 508,
             "topics": [
               "android",
               "japanese",
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:16:04.995Z",
+    "last_updated": "2026-09-03T08:25:43.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
