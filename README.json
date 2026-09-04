@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 105,
+            "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 502517,
+            "stars": 502813,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 39,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57448,
+            "stars": 57454,
             "topics": [
               "android",
               "awesome",
@@ -71,7 +71,7 @@
             "open_issues": 7,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48917,
+            "stars": 48928,
             "topics": [
               "awesome",
               "awesome-list"
@@ -95,7 +95,7 @@
             "open_issues": 62,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33644,
+            "stars": 33647,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -116,7 +116,7 @@
             "open_issues": 12,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26239,
+            "stars": 26240,
             "topics": [
               "awesome",
               "awesome-list",
@@ -193,10 +193,10 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "willianjusten",
             "repo": "awesome-svg",
-            "stars": 4648,
+            "stars": 4649,
             "topics": [
               "awesome-list",
               "svg"
@@ -220,7 +220,7 @@
             "open_issues": 10,
             "owner": "lyfeyaj",
             "repo": "awesome-resources",
-            "stars": 1743,
+            "stars": 1745,
             "topics": [
               "algorithm",
               "android",
@@ -466,11 +466,11 @@
             "id": 24953448,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T04:47:19Z",
+            "last_commit": "2026-09-04T02:16:31Z",
             "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53861,
+            "stars": 53871,
             "topics": [
               "android",
               "icons",
@@ -499,7 +499,7 @@
             "open_issues": 1114,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11304,
+            "stars": 11305,
             "topics": [
               "android",
               "bootstrap",
@@ -642,7 +642,7 @@
                 "open_issues": 253,
                 "owner": "navasmdc",
                 "repo": "MaterialDesignLibrary",
-                "stars": 8915,
+                "stars": 8916,
                 "topics": [
                   "android",
                   "material-design"
@@ -687,11 +687,11 @@
                 "id": 30474266,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-28T06:13:36Z",
-                "open_issues": 146,
+                "last_commit": "2026-09-04T06:38:28Z",
+                "open_issues": 144,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16249,
+                "stars": 16254,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -2196,7 +2196,7 @@
                 "open_issues": 177,
                 "owner": "ksoichiro",
                 "repo": "Android-ObservableScrollView",
-                "stars": 9607,
+                "stars": 9608,
                 "topics": [
                   "android",
                   "android-library",
@@ -2336,7 +2336,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2022-01-23T05:21:50Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "geftimov",
                 "repo": "android-pathview",
                 "stars": 2889,
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:25:43.412Z",
+    "last_updated": "2026-09-04T08:21:11.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
