@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 504640,
+            "stars": 504968,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 39,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57530,
+            "stars": 57543,
             "topics": [
               "android",
               "awesome",
@@ -68,10 +68,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-24T00:59:50Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48971,
+            "stars": 48976,
             "topics": [
               "awesome",
               "awesome-list"
@@ -95,7 +95,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33660,
+            "stars": 33663,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -116,7 +116,7 @@
             "open_issues": 13,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26244,
+            "stars": 26247,
             "topics": [
               "awesome",
               "awesome-list",
@@ -172,7 +172,7 @@
             "open_issues": 7,
             "owner": "snowdream",
             "repo": "awesome-android",
-            "stars": 5902,
+            "stars": 5903,
             "topics": [
               "android",
               "android-libs"
@@ -193,7 +193,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "willianjusten",
             "repo": "awesome-svg",
             "stars": 4648,
@@ -466,11 +466,11 @@
             "id": 24953448,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T02:16:31Z",
+            "last_commit": "2026-09-11T02:18:11Z",
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53911,
+            "stars": 53919,
             "topics": [
               "android",
               "icons",
@@ -496,10 +496,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
-            "open_issues": 1117,
+            "open_issues": 1118,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11307,
+            "stars": 11308,
             "topics": [
               "android",
               "bootstrap",
@@ -687,11 +687,11 @@
                 "id": 30474266,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-04T06:38:28Z",
-                "open_issues": 147,
+                "last_commit": "2026-09-11T04:53:14Z",
+                "open_issues": 145,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16253,
+                "stars": 16254,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -1222,7 +1222,7 @@
                 "open_issues": 12,
                 "owner": "mikepenz",
                 "repo": "MaterialDrawer",
-                "stars": 11641,
+                "stars": 11643,
                 "topics": [
                   "android",
                   "android-development",
@@ -1639,7 +1639,7 @@
                 "open_issues": 22,
                 "owner": "kyleduo",
                 "repo": "SwitchButton",
-                "stars": 4745,
+                "stars": 4746,
                 "topics": [
                   "android",
                   "switchbutton",
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:32:11.404Z",
+    "last_updated": "2026-09-11T08:26:39.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
