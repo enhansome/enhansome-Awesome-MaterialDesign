@@ -4,12 +4,12 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 
 \##Other Awesome List
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,284 | 🐛 106 | 📅 2026-09-02
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,630 | 🐛 39 | 📅 2026-06-05
-* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,038 | 🐛 21 | 📅 2026-08-24
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,681 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,261 | 🐛 14 | 🌐 Ruby | 📅 2026-09-01
-* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,215 | 🐛 12 | 📅 2018-03-08
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,642 | 🐛 106 | 📅 2026-09-02
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,641 | 🐛 39 | 📅 2026-06-05
+* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,046 | 🐛 0 | 📅 2026-09-19
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,680 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,264 | 🐛 14 | 🌐 Ruby | 📅 2026-09-01
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,216 | 🐛 12 | 📅 2018-03-08
 * [awesome-android](https://github.com/snowdream/awesome-android) ⚠️ Archived
 * [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,648 | 🐛 46 | 🌐 Shell | 📅 2026-07-16
 * [awesome-resources](https://github.com/lyfeyaj/awesome-resources) ⭐ 1,747 | 🐛 10 | 🌐 HTML | 📅 2022-12-17
@@ -95,8 +95,8 @@ Libraries on the github.
 
 ## <a name="Design Res">Design Res</a>
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,973 | 🐛 428 | 📅 2026-09-18
-* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,312 | 🐛 1,120 | 📅 2025-01-20
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,981 | 🐛 428 | 📅 2026-09-18
+* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,313 | 🐛 1,120 | 📅 2025-01-20
 * [TextDrawable](https://github.com/amulyakhare/TextDrawable) ⭐ 3,138 | 🐛 57 | 🌐 Java | 📅 2021-09-02
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,403 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17
 * [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template) ⭐ 434 | 🐛 0 | 🌐 Python | 📅 2016-07-11
@@ -259,7 +259,7 @@ Libraries on the github.
 | [vector-compat](https://github.com/wnafee/vector-compat) ⭐ 1,212 \| 🐛 25 \| 🌐 Java \| 📅 2016-10-24                    | <img src="/demoRes/vector-compat-a.gif" width="80" height="80" alt="Screenshot"/> <img src="/demoRes/vector-compat-b.gif" width="110" height="80" alt="Screenshot"/> <img src="/demoRes/vector-compat-c.gif" width="110" height="80" alt="Screenshot"/> |
 | [animated-vector-drawable](https://github.com/chiuki/animated-vector-drawable) ⭐ 321 \| 🐛 3 \| 🌐 Java \| 📅 2014-12-04 | <img src="/demoRes/animated-vector-drawable.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/animated-vector-drawable-b.gif" width="180" height="290" alt="Screenshot"/>                                                             |
 | [android-pathview](https://github.com/geftimov/android-pathview) ⭐ 2,887 \| 🐛 10 \| 🌐 Java \| 📅 2022-01-23            | <img src="/demoRes/android-pathview-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/android-pathview-b.gif" width="180" height="290" alt="Screenshot"/>                                                                           |
-| [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) ⭐ 7,027 \| 🐛 15 \| 🌐 HTML \| 📅 2025-01-02                    | [SVG-Loaders-Previewed](http://samherbert.net/svg-loaders/)                                                                                                                                                                                             |
+| [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) ⭐ 7,026 \| 🐛 15 \| 🌐 HTML \| 📅 2025-01-02                    | [SVG-Loaders-Previewed](http://samherbert.net/svg-loaders/)                                                                                                                                                                                             |
 
 ## <a name="Dialog">Dialog</a>
 
@@ -297,4 +297,4 @@ Email: <lightsky.cn@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
