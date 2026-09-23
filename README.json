@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 508768,
+            "stars": 509158,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57681,
+            "stars": 57695,
             "topics": [
               "android",
               "awesome",
@@ -68,10 +68,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-21T00:24:39Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49083,
+            "stars": 49088,
             "topics": [
               "awesome",
               "awesome-list"
@@ -95,7 +95,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33679,
+            "stars": 33682,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -116,7 +116,7 @@
             "open_issues": 14,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26264,
+            "stars": 26267,
             "topics": [
               "awesome",
               "awesome-list",
@@ -151,7 +151,7 @@
             "open_issues": 14,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11217,
+            "stars": 11218,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -172,7 +172,7 @@
             "open_issues": 7,
             "owner": "snowdream",
             "repo": "awesome-android",
-            "stars": 5902,
+            "stars": 5903,
             "topics": [
               "android",
               "android-libs"
@@ -470,7 +470,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54008,
+            "stars": 54016,
             "topics": [
               "android",
               "icons",
@@ -496,10 +496,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
-            "open_issues": 1122,
+            "open_issues": 1121,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11316,
+            "stars": 11317,
             "topics": [
               "android",
               "bootstrap",
@@ -642,7 +642,7 @@
                 "open_issues": 254,
                 "owner": "navasmdc",
                 "repo": "MaterialDesignLibrary",
-                "stars": 8912,
+                "stars": 8911,
                 "topics": [
                   "android",
                   "material-design"
@@ -688,10 +688,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-11T04:53:14Z",
-                "open_issues": 147,
+                "open_issues": 148,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16259,
+                "stars": 16258,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -1010,7 +1010,7 @@
                 "open_issues": 78,
                 "owner": "makovkastar",
                 "repo": "FloatingActionButton",
-                "stars": 3962,
+                "stars": 3961,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T08:55:24.139Z",
+    "last_updated": "2026-09-23T08:57:58.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
