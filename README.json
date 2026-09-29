@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 511704,
+            "stars": 512194,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57758,
+            "stars": 57766,
             "topics": [
               "android",
               "awesome",
@@ -71,7 +71,7 @@
             "open_issues": 6,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49115,
+            "stars": 49118,
             "topics": [
               "awesome",
               "awesome-list"
@@ -113,10 +113,10 @@
             "language": "Ruby",
             "license": "CC0-1.0",
             "last_commit": "2026-09-01T05:37:47Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26298,
+            "stars": 26304,
             "topics": [
               "awesome",
               "awesome-list",
@@ -193,7 +193,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
-            "open_issues": 49,
+            "open_issues": 51,
             "owner": "willianjusten",
             "repo": "awesome-svg",
             "stars": 4651,
@@ -470,7 +470,7 @@
             "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54035,
+            "stars": 54041,
             "topics": [
               "android",
               "icons",
@@ -499,7 +499,7 @@
             "open_issues": 1122,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11317,
+            "stars": 11315,
             "topics": [
               "android",
               "bootstrap",
@@ -529,7 +529,7 @@
             "open_issues": 57,
             "owner": "amulyakhare",
             "repo": "TextDrawable",
-            "stars": 3138,
+            "stars": 3137,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -691,7 +691,7 @@
                 "open_issues": 145,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16265,
+                "stars": 16267,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -1218,7 +1218,7 @@
                 "id": 30120110,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T21:05:35Z",
+                "last_commit": "2026-09-28T21:05:05Z",
                 "open_issues": 13,
                 "owner": "mikepenz",
                 "repo": "MaterialDrawer",
@@ -1639,7 +1639,7 @@
                 "open_issues": 22,
                 "owner": "kyleduo",
                 "repo": "SwitchButton",
-                "stars": 4745,
+                "stars": 4746,
                 "topics": [
                   "android",
                   "switchbutton",
@@ -1664,7 +1664,7 @@
                 "open_issues": 80,
                 "owner": "AnderWeb",
                 "repo": "discreteSeekBar",
-                "stars": 2129,
+                "stars": 2130,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -1900,7 +1900,7 @@
                 "open_issues": 21,
                 "owner": "lgvalle",
                 "repo": "Material-Animations",
-                "stars": 13544,
+                "stars": 13543,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:20:40.566Z",
+    "last_updated": "2026-09-29T10:16:33.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
