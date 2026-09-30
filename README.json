@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 512194,
+            "stars": 512634,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57766,
+            "stars": 57778,
             "topics": [
               "android",
               "awesome",
@@ -68,10 +68,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 6,
+            "open_issues": 9,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49118,
+            "stars": 49121,
             "topics": [
               "awesome",
               "awesome-list"
@@ -116,7 +116,7 @@
             "open_issues": 15,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26304,
+            "stars": 26308,
             "topics": [
               "awesome",
               "awesome-list",
@@ -220,7 +220,7 @@
             "open_issues": 10,
             "owner": "lyfeyaj",
             "repo": "awesome-resources",
-            "stars": 1749,
+            "stars": 1750,
             "topics": [
               "algorithm",
               "android",
@@ -470,7 +470,7 @@
             "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54041,
+            "stars": 54050,
             "topics": [
               "android",
               "icons",
@@ -499,7 +499,7 @@
             "open_issues": 1122,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11315,
+            "stars": 11314,
             "topics": [
               "android",
               "bootstrap",
@@ -688,10 +688,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-28T01:42:49Z",
-                "open_issues": 145,
+                "open_issues": 146,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16267,
+                "stars": 16269,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T10:16:33.748Z",
+    "last_updated": "2026-09-30T10:08:14.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
