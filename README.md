@@ -4,10 +4,10 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 
 \##Other Awesome List
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,634 | 🐛 106 | 📅 2026-09-02
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,778 | 🐛 41 | 📅 2026-06-05
-* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,121 | 🐛 9 | 📅 2026-09-23
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,694 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,025 | 🐛 106 | 📅 2026-09-02
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,789 | 🐛 41 | 📅 2026-06-05
+* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,132 | 🐛 10 | 📅 2026-09-23
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,697 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,308 | 🐛 15 | 🌐 Ruby | 📅 2026-09-01
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,217 | 🐛 14 | 📅 2018-03-08
 * [awesome-android](https://github.com/snowdream/awesome-android) ⚠️ Archived
@@ -95,8 +95,8 @@ Libraries on the github.
 
 ## <a name="Design Res">Design Res</a>
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,050 | 🐛 426 | 📅 2026-09-25
-* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,314 | 🐛 1,122 | 📅 2025-01-20
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,052 | 🐛 427 | 📅 2026-09-25
+* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,315 | 🐛 1,122 | 📅 2025-01-20
 * [TextDrawable](https://github.com/amulyakhare/TextDrawable) ⭐ 3,137 | 🐛 57 | 🌐 Java | 📅 2021-09-02
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,404 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17
 * [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template) ⭐ 434 | 🐛 0 | 🌐 Python | 📅 2016-07-11
@@ -280,7 +280,7 @@ Libraries on the github.
 | [InstaMaterial](https://github.com/frogermcs/InstaMaterial) ⭐ 4,934 \| 🐛 35 \| 🌐 Java \| 📅 2020-09-30  | <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/InstaMaterial.png" width="180" height="290" alt="Screenshot"/> |
 | [Material-Movies](https://github.com/saulmm/Material-Movies) ⭐ 2,407 \| 🐛 15 \| 🌐 Java \| 📅 2016-06-23 | <img src="/demoRes/Material-Movies.png" width="520" height="300" alt="Screenshot"/>                                                           |
 | [WaniKani-for-Android](https://github.com/xiprox/WaniKani-for-Android) ⚠️ Archived                        | <img src="/demoRes/WaniKani-for-Android.png" width="480" height="240" alt="Screenshot"/>                                                      |
-| [GitLabAndroid](https://github.com/ekx/GitLabAndroid) ⭐ 193 \| 🐛 19 \| 🌐 Java \| 📅 2016-08-09          | <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/GitLabAndroid.png"  alt="Screenshot"/>                         |
+| [GitLabAndroid](https://github.com/ekx/GitLabAndroid) ⭐ 194 \| 🐛 19 \| 🌐 Java \| 📅 2016-08-09          | <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/GitLabAndroid.png"  alt="Screenshot"/>                         |
 
 \#Thanks to
 [inferjay](https://github.com/inferjay)\
@@ -297,4 +297,4 @@ Email: <lightsky.cn@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
