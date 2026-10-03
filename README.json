@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "awesome",
-          "description": null,
+          "description": "sindresorhus/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513457,
+            "stars": 513794,
             "topics": [
               "awesome",
               "awesome-list",
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "awesome-android-ui",
-          "description": null,
+          "description": "wasabeef/awesome-android-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -46,7 +46,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57797,
+            "stars": 57805,
             "topics": [
               "android",
               "awesome",
@@ -58,7 +58,7 @@
         {
           "node_type": "item",
           "title": "awesome-java",
-          "description": null,
+          "description": "akullpp/awesome-java",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -71,7 +71,7 @@
             "open_issues": 10,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49139,
+            "stars": 49144,
             "topics": [
               "awesome",
               "awesome-list"
@@ -82,7 +82,7 @@
         {
           "node_type": "item",
           "title": "awesome-awesomeness",
-          "description": null,
+          "description": "bayandin/awesome-awesomeness",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -103,7 +103,7 @@
         {
           "node_type": "item",
           "title": "awesome-swift",
-          "description": null,
+          "description": "matteocrippa/awesome-swift",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -113,10 +113,10 @@
             "language": "Ruby",
             "license": "CC0-1.0",
             "last_commit": "2026-09-01T05:37:47Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26311,
+            "stars": 26309,
             "topics": [
               "awesome",
               "awesome-list",
@@ -138,7 +138,7 @@
         {
           "node_type": "item",
           "title": "awesome-ios-ui",
-          "description": null,
+          "description": "cjwirth/awesome-ios-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -151,7 +151,7 @@
             "open_issues": 14,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11218,
+            "stars": 11217,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -159,7 +159,7 @@
         {
           "node_type": "item",
           "title": "awesome-android",
-          "description": null,
+          "description": "snowdream/awesome-android",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -183,7 +183,7 @@
         {
           "node_type": "item",
           "title": "awesome-svg",
-          "description": null,
+          "description": "willianjusten/awesome-svg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -196,7 +196,7 @@
             "open_issues": 51,
             "owner": "willianjusten",
             "repo": "awesome-svg",
-            "stars": 4652,
+            "stars": 4651,
             "topics": [
               "awesome-list",
               "svg"
@@ -207,7 +207,7 @@
         {
           "node_type": "item",
           "title": "awesome-resources",
-          "description": null,
+          "description": "lyfeyaj/awesome-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -220,7 +220,7 @@
             "open_issues": 10,
             "owner": "lyfeyaj",
             "repo": "awesome-resources",
-            "stars": 1750,
+            "stars": 1751,
             "topics": [
               "algorithm",
               "android",
@@ -244,7 +244,7 @@
         {
           "node_type": "item",
           "title": "SwipeRefreshMultipleViews",
-          "description": null,
+          "description": "googlearchive/android-SwipeRefreshMultipleViews",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -265,7 +265,7 @@
         {
           "node_type": "item",
           "title": "FloatingActionButtonBasic",
-          "description": null,
+          "description": "googlearchive/android-FloatingActionButtonBasic",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -286,7 +286,7 @@
         {
           "node_type": "item",
           "title": "SwipeRefreshListFragment",
-          "description": null,
+          "description": "googlearchive/android-SwipeRefreshListFragment",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -307,7 +307,7 @@
         {
           "node_type": "item",
           "title": "RevealEffectBasic",
-          "description": null,
+          "description": "googlearchive/android-RevealEffectBasic",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -328,7 +328,7 @@
         {
           "node_type": "item",
           "title": "android-Interpolator",
-          "description": null,
+          "description": "googlearchive/android-Interpolator",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -349,7 +349,7 @@
         {
           "node_type": "item",
           "title": "SwipeRefreshLayoutBasic",
-          "description": null,
+          "description": "googlearchive/android-SwipeRefreshLayoutBasic",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -370,7 +370,7 @@
         {
           "node_type": "item",
           "title": "ElevationBasic",
-          "description": null,
+          "description": "googlearchive/android-ElevationBasic",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -410,7 +410,7 @@
             "open_issues": 76,
             "owner": "google",
             "repo": "iosched",
-            "stars": 21637,
+            "stars": 21634,
             "topics": [
               "android",
               "architecture",
@@ -430,7 +430,7 @@
         {
           "node_type": "item",
           "title": "android-design-support-library",
-          "description": "Demo",
+          "description": "chrisbanes/cheesesquare",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -443,7 +443,7 @@
             "open_issues": 18,
             "owner": "chrisbanes",
             "repo": "cheesesquare",
-            "stars": 7635,
+            "stars": 7634,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -457,7 +457,7 @@
         {
           "node_type": "item",
           "title": "material-design-icons",
-          "description": null,
+          "description": "google/material-design-icons",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -470,7 +470,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54060,
+            "stars": 54062,
             "topics": [
               "android",
               "icons",
@@ -486,7 +486,7 @@
         {
           "node_type": "item",
           "title": "Design resources for Material Design",
-          "description": null,
+          "description": "Templarian/MaterialDesign",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -516,7 +516,7 @@
         {
           "node_type": "item",
           "title": "TextDrawable",
-          "description": null,
+          "description": "amulyakhare/TextDrawable",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -537,7 +537,7 @@
         {
           "node_type": "item",
           "title": "material-design-iconic-font",
-          "description": null,
+          "description": "zavoloklom/material-design-iconic-font",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -558,7 +558,7 @@
         {
           "node_type": "item",
           "title": "material-design-icons-adt-template",
-          "description": null,
+          "description": "intrications/material-design-icons-adt-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -579,7 +579,7 @@
         {
           "node_type": "item",
           "title": "android-material-icons",
-          "description": null,
+          "description": "Malinskiy/android-material-icons",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,7 +608,7 @@
             {
               "node_type": "item",
               "title": "android-design-support-library",
-              "description": null,
+              "description": "chrisbanes/cheesesquare",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -621,7 +621,7 @@
                 "open_issues": 18,
                 "owner": "chrisbanes",
                 "repo": "cheesesquare",
-                "stars": 7635,
+                "stars": 7634,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -629,7 +629,7 @@
             {
               "node_type": "item",
               "title": "MaterialDesignLibrary",
-              "description": null,
+              "description": "navasmdc/MaterialDesignLibrary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -642,7 +642,7 @@
                 "open_issues": 254,
                 "owner": "navasmdc",
                 "repo": "MaterialDesignLibrary",
-                "stars": 8910,
+                "stars": 8909,
                 "topics": [
                   "android",
                   "material-design"
@@ -653,7 +653,7 @@
             {
               "node_type": "item",
               "title": "material",
-              "description": null,
+              "description": "rey5137/material",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -666,7 +666,7 @@
                 "open_issues": 214,
                 "owner": "rey5137",
                 "repo": "material",
-                "stars": 5945,
+                "stars": 5944,
                 "topics": [
                   "android",
                   "java",
@@ -678,7 +678,7 @@
             {
               "node_type": "item",
               "title": "Material Design In XAML Toolkit",
-              "description": null,
+              "description": "MaterialDesignInXAML/MaterialDesignInXamlToolkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -717,7 +717,7 @@
             {
               "node_type": "item",
               "title": "Curved-Fab-Reveal-Example",
-              "description": null,
+              "description": "saulmm/Curved-Fab-Reveal-Example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -738,7 +738,7 @@
             {
               "node_type": "item",
               "title": "Android-LollipopShowcase",
-              "description": null,
+              "description": "mikepenz/LollipopShowcase",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -751,7 +751,7 @@
                 "open_issues": 0,
                 "owner": "mikepenz",
                 "repo": "LollipopShowcase",
-                "stars": 1730,
+                "stars": 1729,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -759,7 +759,7 @@
             {
               "node_type": "item",
               "title": "google-io-2014-compat",
-              "description": null,
+              "description": "unrarp/google-io-2014-compat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -780,7 +780,7 @@
             {
               "node_type": "item",
               "title": "google-io-2014",
-              "description": null,
+              "description": "romainguy/google-io-2014",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -801,7 +801,7 @@
             {
               "node_type": "item",
               "title": "AndroidMaterialDesignToolbar",
-              "description": null,
+              "description": "tekinarslan/AndroidMaterialDesignToolbar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -822,7 +822,7 @@
             {
               "node_type": "item",
               "title": "Android-L-Preview-Concepts",
-              "description": null,
+              "description": "saulmm/Android-L-Preview-Concepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -843,7 +843,7 @@
             {
               "node_type": "item",
               "title": "OpenLibra-Material",
-              "description": null,
+              "description": "saulmm/OpenLibra-Material",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -864,7 +864,7 @@
             {
               "node_type": "item",
               "title": "MaterialEverywhere",
-              "description": null,
+              "description": "antoniolg/MaterialEverywhere",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -885,7 +885,7 @@
             {
               "node_type": "item",
               "title": "Android-Material-Example",
-              "description": null,
+              "description": "saulmm/Android-Material-Examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -898,7 +898,7 @@
                 "open_issues": 10,
                 "owner": "saulmm",
                 "repo": "Android-Material-Examples",
-                "stars": 2797,
+                "stars": 2796,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -906,7 +906,7 @@
             {
               "node_type": "item",
               "title": "MaterialDesignSample",
-              "description": null,
+              "description": "rejasupotaro/MaterialDesignSample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -927,7 +927,7 @@
             {
               "node_type": "item",
               "title": "Material-Action-Bar-Sample",
-              "description": null,
+              "description": "xiprox/Material-Action-Bar-Sample",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -948,7 +948,7 @@
             {
               "node_type": "item",
               "title": "MaterialDesignSupport",
-              "description": null,
+              "description": "shawwinbin/MaterialDesignSupport",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -976,7 +976,7 @@
             {
               "node_type": "item",
               "title": "FloatingActionButton",
-              "description": null,
+              "description": "faizmalkani/Fabulous",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -997,7 +997,7 @@
             {
               "node_type": "item",
               "title": "FloatingActionButton",
-              "description": null,
+              "description": "makovkastar/FloatingActionButton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1018,7 +1018,7 @@
             {
               "node_type": "item",
               "title": "tickplusdrawable",
-              "description": null,
+              "description": "flavienlaurent/tickplusdrawable",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1039,7 +1039,7 @@
             {
               "node_type": "item",
               "title": "Android-Material-circular-button",
-              "description": null,
+              "description": "glomadrian/Android-Material-circular-button",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1060,7 +1060,7 @@
             {
               "node_type": "item",
               "title": "FloatingActionButton",
-              "description": null,
+              "description": "Clans/FloatingActionButton",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1084,7 +1084,7 @@
             {
               "node_type": "item",
               "title": "RapidFloatingActionButton",
-              "description": null,
+              "description": "wangjiegulu/RapidFloatingActionButton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1117,7 +1117,7 @@
             {
               "node_type": "item",
               "title": "android-ui",
-              "description": null,
+              "description": "markushi/android-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1130,7 +1130,7 @@
                 "open_issues": 12,
                 "owner": "markushi",
                 "repo": "android-ui",
-                "stars": 2184,
+                "stars": 2183,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -1138,7 +1138,7 @@
             {
               "node_type": "item",
               "title": "material-menu",
-              "description": null,
+              "description": "balysv/material-menu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1167,7 +1167,7 @@
             {
               "node_type": "item",
               "title": "DrawerArrowDrawable",
-              "description": null,
+              "description": "ChrisRenke/DrawerArrowDrawable",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1188,7 +1188,7 @@
             {
               "node_type": "item",
               "title": "LDrawer",
-              "description": null,
+              "description": "keklikhasan/LDrawer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1209,7 +1209,7 @@
             {
               "node_type": "item",
               "title": "MaterialDrawer",
-              "description": null,
+              "description": "mikepenz/MaterialDrawer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1222,7 +1222,7 @@
                 "open_issues": 13,
                 "owner": "mikepenz",
                 "repo": "MaterialDrawer",
-                "stars": 11643,
+                "stars": 11642,
                 "topics": [
                   "android",
                   "android-development",
@@ -1247,7 +1247,7 @@
             {
               "node_type": "item",
               "title": "android-material-drawer-template",
-              "description": null,
+              "description": "kanytu/android-material-drawer-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1268,7 +1268,7 @@
             {
               "node_type": "item",
               "title": "MaterialTabs",
-              "description": null,
+              "description": "neokree/MaterialTabs",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1289,7 +1289,7 @@
             {
               "node_type": "item",
               "title": "L-Navigation-Drawer",
-              "description": null,
+              "description": "lewisjdeane/L-Navigation-Drawer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1310,7 +1310,7 @@
             {
               "node_type": "item",
               "title": "MaterialNavigationDrawer",
-              "description": null,
+              "description": "neokree/MaterialNavigationDrawer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1331,7 +1331,7 @@
             {
               "node_type": "item",
               "title": "NavigationDrawer-MaterialDesign",
-              "description": null,
+              "description": "zirouan/NavigationDrawer-MaterialDesign",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1352,7 +1352,7 @@
             {
               "node_type": "item",
               "title": "MenuAnimation",
-              "description": null,
+              "description": "onivas/MenuAnimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1373,7 +1373,7 @@
             {
               "node_type": "item",
               "title": "Material_Navigationdrawer",
-              "description": null,
+              "description": "DympyDev/Material_Navigationdrawer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1394,7 +1394,7 @@
             {
               "node_type": "item",
               "title": "material-drawer",
-              "description": null,
+              "description": "janheinrichmerker/material-drawer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1431,7 +1431,7 @@
             {
               "node_type": "item",
               "title": "MaterialImageView",
-              "description": null,
+              "description": "zhaozhentao/MaterialImageView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1452,7 +1452,7 @@
             {
               "node_type": "item",
               "title": "MaterialViewPager",
-              "description": null,
+              "description": "florent37/MaterialViewPager",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1465,7 +1465,7 @@
                 "open_issues": 183,
                 "owner": "florent37",
                 "repo": "MaterialViewPager",
-                "stars": 8067,
+                "stars": 8066,
                 "topics": [
                   "android",
                   "java",
@@ -1483,7 +1483,7 @@
             {
               "node_type": "item",
               "title": "Android-MaterialPreference",
-              "description": null,
+              "description": "jenzz/Android-MaterialPreference",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1504,7 +1504,7 @@
             {
               "node_type": "item",
               "title": "SwipeableCard",
-              "description": null,
+              "description": "michelelacorte/SwipeableCard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1542,7 +1542,7 @@
             {
               "node_type": "item",
               "title": "materialish-progress",
-              "description": null,
+              "description": "nico2sh/materialish-progress",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1555,7 +1555,7 @@
                 "open_issues": 19,
                 "owner": "nico2sh",
                 "repo": "materialish-progress",
-                "stars": 2467,
+                "stars": 2466,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -1563,7 +1563,7 @@
             {
               "node_type": "item",
               "title": "MaterialLoadingProgressBar",
-              "description": null,
+              "description": "lsjwzh/MaterialLoadingProgressBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1584,7 +1584,7 @@
             {
               "node_type": "item",
               "title": "SwipyRefreshLayout",
-              "description": null,
+              "description": "omadahealth/SwipyRefreshLayout",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1605,7 +1605,7 @@
             {
               "node_type": "item",
               "title": "MaterialSettings",
-              "description": null,
+              "description": "kenumir/MaterialSettings",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1626,7 +1626,7 @@
             {
               "node_type": "item",
               "title": "SwitchButton",
-              "description": null,
+              "description": "kyleduo/SwitchButton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1651,7 +1651,7 @@
             {
               "node_type": "item",
               "title": "discreteSeekBar",
-              "description": null,
+              "description": "AnderWeb/discreteSeekBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1672,7 +1672,7 @@
             {
               "node_type": "item",
               "title": "material-range-bar",
-              "description": null,
+              "description": "oli107/material-range-bar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1693,7 +1693,7 @@
             {
               "node_type": "item",
               "title": "material-calendarview",
-              "description": null,
+              "description": "prolificinteractive/material-calendarview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1719,7 +1719,7 @@
             {
               "node_type": "item",
               "title": "BetterSpinner",
-              "description": null,
+              "description": "Lesilva/BetterSpinner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1747,7 +1747,7 @@
             {
               "node_type": "item",
               "title": "MaterialEditText",
-              "description": null,
+              "description": "rengwuxian/MaterialEditText",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1768,7 +1768,7 @@
             {
               "node_type": "item",
               "title": "MaterialTextField",
-              "description": null,
+              "description": "zst123/MaterialTextField",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1796,7 +1796,7 @@
             {
               "node_type": "item",
               "title": "SnackBar",
-              "description": null,
+              "description": "Kennyc1012/SnackBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1817,7 +1817,7 @@
             {
               "node_type": "item",
               "title": "snackbar",
-              "description": null,
+              "description": "nispok/snackbar",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1845,7 +1845,7 @@
             {
               "node_type": "item",
               "title": "transitions-everywhere",
-              "description": null,
+              "description": "andkulikov/Transitions-Everywhere",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1866,7 +1866,7 @@
             {
               "node_type": "item",
               "title": "PreLollipopTransition",
-              "description": null,
+              "description": "takahirom/PreLollipopTransition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1887,7 +1887,7 @@
             {
               "node_type": "item",
               "title": "Material-Animations",
-              "description": null,
+              "description": "lgvalle/Material-Animations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1900,7 +1900,7 @@
                 "open_issues": 21,
                 "owner": "lgvalle",
                 "repo": "Material-Animations",
-                "stars": 13534,
+                "stars": 13533,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -1915,7 +1915,7 @@
             {
               "node_type": "item",
               "title": "RippleEffect",
-              "description": null,
+              "description": "traex/RippleEffect",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1928,7 +1928,7 @@
                 "open_issues": 54,
                 "owner": "traex",
                 "repo": "RippleEffect",
-                "stars": 4889,
+                "stars": 4888,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -1936,7 +1936,7 @@
             {
               "node_type": "item",
               "title": "RippleView",
-              "description": null,
+              "description": "siriscac/RippleView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1964,7 +1964,7 @@
             {
               "node_type": "item",
               "title": "android-ripple-background",
-              "description": null,
+              "description": "skyfishjy/android-ripple-background",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1985,7 +1985,7 @@
             {
               "node_type": "item",
               "title": "material-ripple",
-              "description": null,
+              "description": "balysv/material-ripple",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2012,7 +2012,7 @@
             {
               "node_type": "item",
               "title": "PaperStyleWidgets",
-              "description": null,
+              "description": "aNNiMON/PaperStyleWidgets",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2033,7 +2033,7 @@
             {
               "node_type": "item",
               "title": "material-design-toolkit",
-              "description": null,
+              "description": "twang2218/material-design-toolkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2061,7 +2061,7 @@
             {
               "node_type": "item",
               "title": "android-ui",
-              "description": null,
+              "description": "markushi/android-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2074,7 +2074,7 @@
                 "open_issues": 12,
                 "owner": "markushi",
                 "repo": "android-ui",
-                "stars": 2184,
+                "stars": 2183,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2082,7 +2082,7 @@
             {
               "node_type": "item",
               "title": "CircularReveal",
-              "description": null,
+              "description": "ozodrukh/CircularReveal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2095,7 +2095,7 @@
                 "open_issues": 26,
                 "owner": "ozodrukh",
                 "repo": "CircularReveal",
-                "stars": 2396,
+                "stars": 2395,
                 "topics": [
                   "android",
                   "android-library",
@@ -2109,7 +2109,7 @@
             {
               "node_type": "item",
               "title": "RevealLayout",
-              "description": null,
+              "description": "kyze8439690/RevealLayout",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2130,7 +2130,7 @@
             {
               "node_type": "item",
               "title": "CircularRevealFragment",
-              "description": null,
+              "description": "ferdy182/Android-CircularRevealFragment",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2155,7 +2155,7 @@
             {
               "node_type": "item",
               "title": "ViewRevealAnimator",
-              "description": null,
+              "description": "sephiroth74/ViewRevealAnimator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2183,7 +2183,7 @@
             {
               "node_type": "item",
               "title": "Android-ObservableScrollView",
-              "description": null,
+              "description": "ksoichiro/Android-ObservableScrollView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2196,7 +2196,7 @@
                 "open_issues": 177,
                 "owner": "ksoichiro",
                 "repo": "Android-ObservableScrollView",
-                "stars": 9604,
+                "stars": 9603,
                 "topics": [
                   "android",
                   "android-library",
@@ -2209,7 +2209,7 @@
             {
               "node_type": "item",
               "title": "ViewPagerHeaderScrollDemo",
-              "description": null,
+              "description": "ongakuer/ViewPagerHeaderScrollDemo",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2230,7 +2230,7 @@
             {
               "node_type": "item",
               "title": "MaterialTextScaleToolbarDemo",
-              "description": null,
+              "description": "yueban/MaterialTextScaleToolbarDemo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2251,7 +2251,7 @@
             {
               "node_type": "item",
               "title": "Scrollable",
-              "description": null,
+              "description": "noties/Scrollable",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2284,7 +2284,7 @@
             {
               "node_type": "item",
               "title": "vector-compat",
-              "description": null,
+              "description": "wnafee/vector-compat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2297,7 +2297,7 @@
                 "open_issues": 25,
                 "owner": "wnafee",
                 "repo": "vector-compat",
-                "stars": 1212,
+                "stars": 1211,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2305,7 +2305,7 @@
             {
               "node_type": "item",
               "title": "animated-vector-drawable",
-              "description": null,
+              "description": "chiuki/animated-vector-drawable",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2326,7 +2326,7 @@
             {
               "node_type": "item",
               "title": "android-pathview",
-              "description": null,
+              "description": "geftimov/android-pathview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2380,7 +2380,7 @@
             {
               "node_type": "item",
               "title": "material-dialogs",
-              "description": null,
+              "description": "afollestad/material-dialogs",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2393,7 +2393,7 @@
                 "open_issues": 111,
                 "owner": "afollestad",
                 "repo": "material-dialogs",
-                "stars": 19546,
+                "stars": 19545,
                 "topics": [
                   "alert",
                   "android",
@@ -2409,7 +2409,7 @@
             {
               "node_type": "item",
               "title": "L-Dialogs",
-              "description": null,
+              "description": "lewisjdeane/L-Dialogs",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2430,7 +2430,7 @@
             {
               "node_type": "item",
               "title": "MaterialStuffLibrary",
-              "description": null,
+              "description": "AndroidDeveloperLB/MaterialPreferenceLibrary",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2451,7 +2451,7 @@
             {
               "node_type": "item",
               "title": "AlertDialogPro",
-              "description": null,
+              "description": "fengdai/AlertDialogPro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2487,7 +2487,7 @@
         {
           "node_type": "item",
           "title": "philm",
-          "description": null,
+          "description": "chrisbanes/philm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2500,7 +2500,7 @@
             "open_issues": 11,
             "owner": "chrisbanes",
             "repo": "philm",
-            "stars": 2063,
+            "stars": 2062,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2508,7 +2508,7 @@
         {
           "node_type": "item",
           "title": "InstaMaterial",
-          "description": null,
+          "description": "frogermcs/InstaMaterial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2521,7 +2521,7 @@
             "open_issues": 35,
             "owner": "frogermcs",
             "repo": "InstaMaterial",
-            "stars": 4934,
+            "stars": 4933,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2529,7 +2529,7 @@
         {
           "node_type": "item",
           "title": "Material-Movies",
-          "description": null,
+          "description": "saulmm/Material-Movies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2550,7 +2550,7 @@
         {
           "node_type": "item",
           "title": "WaniKani-for-Android",
-          "description": null,
+          "description": "xiprox/WaniKani-for-Android",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2577,7 +2577,7 @@
         {
           "node_type": "item",
           "title": "GitLabAndroid",
-          "description": null,
+          "description": "ekx/GitLabAndroid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:11:32.293Z",
+    "last_updated": "2026-10-03T04:26:45.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
@@ -2612,7 +2612,7 @@
       "open_issues": 15,
       "owner": "lightSky",
       "repo": "Awesome-MaterialDesign",
-      "stars": 5857,
+      "stars": 5856,
       "topics": []
     },
     "original_repository_sha": "9b2f197fba5f3ba7df13a5f81faa7a6433a70ee1",
