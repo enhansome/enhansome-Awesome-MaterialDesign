@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 515362,
+            "stars": 515373,
             "topics": [
               "awesome",
               "awesome-list",
@@ -116,7 +116,7 @@
             "open_issues": 16,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26311,
+            "stars": 26312,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:38:24.981Z",
+    "last_updated": "2026-10-06T11:10:44.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",

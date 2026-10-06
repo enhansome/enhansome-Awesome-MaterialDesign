@@ -4,11 +4,11 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 
 \##Other Awesome List
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,362 | 🐛 106 | 📅 2026-09-02
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,373 | 🐛 106 | 📅 2026-09-02
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,849 | 🐛 41 | 📅 2026-06-05
 * [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,179 | 🐛 13 | 📅 2026-09-23
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,705 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,311 | 🐛 16 | 🌐 Ruby | 📅 2026-09-01
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,312 | 🐛 16 | 🌐 Ruby | 📅 2026-09-01
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,218 | 🐛 14 | 📅 2018-03-08
 * [awesome-android](https://github.com/snowdream/awesome-android) ⚠️ Archived
 * [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,651 | 🐛 52 | 🌐 Shell | 📅 2026-07-16
