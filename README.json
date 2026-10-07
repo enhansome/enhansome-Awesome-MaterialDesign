@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 515373,
+            "stars": 515842,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57849,
+            "stars": 57851,
             "topics": [
               "android",
               "awesome",
@@ -68,10 +68,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49179,
+            "stars": 49185,
             "topics": [
               "awesome",
               "awesome-list"
@@ -116,7 +116,7 @@
             "open_issues": 16,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26312,
+            "stars": 26311,
             "topics": [
               "awesome",
               "awesome-list",
@@ -151,7 +151,7 @@
             "open_issues": 14,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11218,
+            "stars": 11216,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -172,7 +172,7 @@
             "open_issues": 7,
             "owner": "snowdream",
             "repo": "awesome-android",
-            "stars": 5904,
+            "stars": 5905,
             "topics": [
               "android",
               "android-libs"
@@ -193,7 +193,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "willianjusten",
             "repo": "awesome-svg",
             "stars": 4651,
@@ -470,7 +470,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54077,
+            "stars": 54081,
             "topics": [
               "android",
               "icons",
@@ -691,7 +691,7 @@
                 "open_issues": 146,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16272,
+                "stars": 16271,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -1007,7 +1007,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2023-05-28T15:33:21Z",
-                "open_issues": 78,
+                "open_issues": 77,
                 "owner": "makovkastar",
                 "repo": "FloatingActionButton",
                 "stars": 3960,
@@ -1928,7 +1928,7 @@
                 "open_issues": 54,
                 "owner": "traex",
                 "repo": "RippleEffect",
-                "stars": 4888,
+                "stars": 4885,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -1977,7 +1977,7 @@
                 "open_issues": 36,
                 "owner": "skyfishjy",
                 "repo": "android-ripple-background",
-                "stars": 2244,
+                "stars": 2243,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2264,7 +2264,7 @@
                 "open_issues": 3,
                 "owner": "noties",
                 "repo": "Scrollable",
-                "stars": 1236,
+                "stars": 1235,
                 "topics": [
                   "android",
                   "scrollable",
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:10:44.874Z",
+    "last_updated": "2026-10-07T10:43:58.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
