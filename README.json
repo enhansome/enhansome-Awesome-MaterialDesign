@@ -19,7 +19,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 516559,
+            "stars": 516983,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57876,
+            "stars": 57886,
             "topics": [
               "android",
               "awesome",
@@ -68,10 +68,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49202,
+            "stars": 49210,
             "topics": [
               "awesome",
               "awesome-list"
@@ -92,10 +92,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 65,
+            "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33711,
+            "stars": 33715,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -113,7 +113,7 @@
             "language": "Ruby",
             "license": "CC0-1.0",
             "last_commit": "2026-09-01T05:37:47Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
             "stars": 26315,
@@ -151,7 +151,7 @@
             "open_issues": 12,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11216,
+            "stars": 11217,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -196,7 +196,7 @@
             "open_issues": 54,
             "owner": "willianjusten",
             "repo": "awesome-svg",
-            "stars": 4651,
+            "stars": 4652,
             "topics": [
               "awesome-list",
               "svg"
@@ -410,7 +410,7 @@
             "open_issues": 76,
             "owner": "google",
             "repo": "iosched",
-            "stars": 21634,
+            "stars": 21635,
             "topics": [
               "android",
               "architecture",
@@ -467,10 +467,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T02:26:05Z",
-            "open_issues": 427,
+            "open_issues": 428,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54091,
+            "stars": 54096,
             "topics": [
               "android",
               "icons",
@@ -550,7 +550,7 @@
             "open_issues": 64,
             "owner": "zavoloklom",
             "repo": "material-design-iconic-font",
-            "stars": 1403,
+            "stars": 1402,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -691,7 +691,7 @@
                 "open_issues": 143,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16272,
+                "stars": 16275,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -1900,7 +1900,7 @@
                 "open_issues": 21,
                 "owner": "lgvalle",
                 "repo": "Material-Animations",
-                "stars": 13531,
+                "stars": 13532,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2393,7 +2393,7 @@
                 "open_issues": 111,
                 "owner": "afollestad",
                 "repo": "material-dialogs",
-                "stars": 19544,
+                "stars": 19543,
                 "topics": [
                   "alert",
                   "android",
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:02:49.871Z",
+    "last_updated": "2026-10-10T10:18:43.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
