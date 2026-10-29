@@ -19,7 +19,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 525972,
+            "stars": 526522,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 44,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58191,
+            "stars": 58211,
             "topics": [
               "android",
               "awesome",
@@ -68,10 +68,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49367,
+            "stars": 49376,
             "topics": [
               "awesome",
               "awesome-list"
@@ -92,10 +92,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33751,
+            "stars": 33758,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -113,10 +113,10 @@
             "language": "Ruby",
             "license": "CC0-1.0",
             "last_commit": "2026-10-25T06:06:58Z",
-            "open_issues": 4,
+            "open_issues": 13,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26351,
+            "stars": 26353,
             "topics": [
               "awesome",
               "awesome-list",
@@ -151,7 +151,7 @@
             "open_issues": 13,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11224,
+            "stars": 11223,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -193,7 +193,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
-            "open_issues": 74,
+            "open_issues": 73,
             "owner": "willianjusten",
             "repo": "awesome-svg",
             "stars": 4659,
@@ -220,7 +220,7 @@
             "open_issues": 10,
             "owner": "lyfeyaj",
             "repo": "awesome-resources",
-            "stars": 1758,
+            "stars": 1757,
             "topics": [
               "algorithm",
               "android",
@@ -470,7 +470,7 @@
             "open_issues": 429,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54175,
+            "stars": 54177,
             "topics": [
               "android",
               "icons",
@@ -496,7 +496,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
-            "open_issues": 1129,
+            "open_issues": 1130,
             "owner": "Templarian",
             "repo": "MaterialDesign",
             "stars": 11319,
@@ -691,7 +691,7 @@
                 "open_issues": 146,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16286,
+                "stars": 16287,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -1007,7 +1007,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2023-05-28T15:33:21Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "makovkastar",
                 "repo": "FloatingActionButton",
                 "stars": 3956,
@@ -1222,7 +1222,7 @@
                 "open_issues": 13,
                 "owner": "mikepenz",
                 "repo": "MaterialDrawer",
-                "stars": 11639,
+                "stars": 11640,
                 "topics": [
                   "android",
                   "android-development",
@@ -2365,7 +2365,7 @@
                 "open_issues": 15,
                 "owner": "SamHerbert",
                 "repo": "SVG-Loaders",
-                "stars": 7030,
+                "stars": 7029,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:12:42.493Z",
+    "last_updated": "2026-10-29T10:36:27.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
