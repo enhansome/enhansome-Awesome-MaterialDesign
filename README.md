@@ -4,14 +4,14 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 
 \##Other Awesome List
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,629 | 🐛 103 | 📅 2026-09-02
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 58,292 | 🐛 44 | 📅 2026-06-05
-* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,434 | 🐛 35 | 📅 2026-09-23
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,768 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,360 | 🐛 19 | 🌐 Ruby | 📅 2026-10-25
-* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,222 | 🐛 13 | 📅 2018-03-08
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,378 | 🐛 103 | 📅 2026-09-02
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 58,312 | 🐛 44 | 📅 2026-06-05
+* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,450 | 🐛 34 | 📅 2026-09-23
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,771 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,362 | 🐛 21 | 🌐 Ruby | 📅 2026-10-25
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,223 | 🐛 13 | 📅 2018-03-08
 * [awesome-android](https://github.com/snowdream/awesome-android) ⚠️ Archived
-* [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,662 | 🐛 76 | 🌐 Shell | 📅 2026-07-16
+* [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,662 | 🐛 77 | 🌐 Shell | 📅 2026-07-16
 * [awesome-resources](https://github.com/lyfeyaj/awesome-resources) ⭐ 1,757 | 🐛 10 | 🌐 HTML | 📅 2022-12-17
 
 ## List of Awesome-MaterialDesign
@@ -95,8 +95,8 @@ Libraries on the github.
 
 ## <a name="Design Res">Design Res</a>
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,226 | 🐛 429 | 📅 2026-10-23
-* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,317 | 🐛 1,132 | 📅 2025-01-20
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,234 | 🐛 429 | 📅 2026-10-23
+* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,315 | 🐛 1,132 | 📅 2025-01-20
 * [TextDrawable](https://github.com/amulyakhare/TextDrawable) ⭐ 3,135 | 🐛 57 | 🌐 Java | 📅 2021-09-02
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,403 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17
 * [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template) ⭐ 434 | 🐛 0 | 🌐 Python | 📅 2016-07-11
@@ -120,7 +120,7 @@ Libraries on the github.
 | [material](https://github.com/rey5137/material) ⚠️ Archived                                                                                | <img src="/demoRes/material-a.gif" width="70" height="70" alt="Screenshot"/> <img src="/demoRes/material-d.gif" width="70" height="70" alt="Screenshot"/> <img src="/demoRes/material-e.gif" width="70" height="70" alt="Screenshot"/> <img src="/demoRes/material-f.gif" width="120" height="40" alt="Screenshot"/> <img src="/demoRes/material-g.gif" width="100" height="30" alt="Screenshot"/> <img src="/demoRes/material-h.gif" width="80" height="30" alt="Screenshot"/> <img src="/demoRes/material-i.gif" width="200" height="40" alt="Screenshot"/> <img src="/demoRes/material-b.gif" width="220" height="40" alt="Screenshot"/> <img src="/demoRes/material-c.gif" width="220" height="40" alt="Screenshot"/> <img src="/demoRes/material-j.gif" width="230" height="120" alt="Screenshot"/> <img src="/demoRes/material-j.png" width="180" height="290" alt="Screenshot"/> |
 | [material-design-library](https://github.com/DenisMondon/material-design-library)                                                          | <img src="/demoRes/material-design-library-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/material-design-library-b.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/material-design-library-c.png" width="180" height="290" alt="Screenshot"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | [MaterialWidget](https://github.com/keithellis/MaterialWidget)                                                                             | <img src="/demoRes/MaterialWidget.png" width="340" height="290" alt="Screenshot"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [Material Design In XAML Toolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) ⭐ 16,295 \| 🐛 149 \| 🌐 C# \| 📅 2026-11-01 | <img src="/demoRes/MaterialDesignInXamlToolkit.gif" width="340" height="217" alt="Screenshot"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| [Material Design In XAML Toolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) ⭐ 16,296 \| 🐛 148 \| 🌐 C# \| 📅 2026-11-01 | <img src="/demoRes/MaterialDesignInXamlToolkit.gif" width="340" height="217" alt="Screenshot"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ## <a name="Showcase">Showcase</a>
 
@@ -229,7 +229,7 @@ Libraries on the github.
 | [RippleEffect](https://github.com/traex/RippleEffect) ⭐ 4,882 \| 🐛 54 \| 🌐 Java \| 📅 2021-02-04                      | <img src="/demoRes/RippleEffect.gif" width="260" height="150" alt="Screenshot"/>                |
 | [RippleView](https://github.com/siriscac/RippleView) ⭐ 1,135 \| 🐛 13 \| 🌐 Java \| 📅 2017-04-18                       | <img src="/demoRes/RippleView.gif" width="180" height="290" alt="Screenshot"/>                  |
 | [android-ripple-background](https://github.com/skyfishjy/android-ripple-background) ⚠️ Archived                         | <img src="/demoRes/android-ripple-background-a.gif" width="180" height="290" alt="Screenshot"/> |
-| [material-ripple](https://github.com/balysv/material-ripple) ⭐ 2,342 \| 🐛 51 \| 🌐 Java \| 📅 2024-06-11               | <img src="/demoRes/material-ripple-a.gif" width="180" height="290" alt="Screenshot"/>           |
+| [material-ripple](https://github.com/balysv/material-ripple) ⭐ 2,342 \| 🐛 52 \| 🌐 Java \| 📅 2024-06-11               | <img src="/demoRes/material-ripple-a.gif" width="180" height="290" alt="Screenshot"/>           |
 | [PaperStyleWidgets](https://github.com/aNNiMON/PaperStyleWidgets) ⚠️ Archived                                           | <img src="/demoRes/PaperStyleWidgets-a.gif" width="220" height="170" alt="Screenshot"/>         |
 | [material-design-toolkit](https://github.com/twang2218/material-design-toolkit) ⭐ 8 \| 🐛 0 \| 🌐 Java \| 📅 2015-04-22 |                                                                                                 |
 
@@ -259,7 +259,7 @@ Libraries on the github.
 | [vector-compat](https://github.com/wnafee/vector-compat) ⭐ 1,213 \| 🐛 25 \| 🌐 Java \| 📅 2016-10-24                    | <img src="/demoRes/vector-compat-a.gif" width="80" height="80" alt="Screenshot"/> <img src="/demoRes/vector-compat-b.gif" width="110" height="80" alt="Screenshot"/> <img src="/demoRes/vector-compat-c.gif" width="110" height="80" alt="Screenshot"/> |
 | [animated-vector-drawable](https://github.com/chiuki/animated-vector-drawable) ⭐ 322 \| 🐛 3 \| 🌐 Java \| 📅 2014-12-04 | <img src="/demoRes/animated-vector-drawable.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/animated-vector-drawable-b.gif" width="180" height="290" alt="Screenshot"/>                                                             |
 | [android-pathview](https://github.com/geftimov/android-pathview) ⭐ 2,882 \| 🐛 10 \| 🌐 Java \| 📅 2022-01-23            | <img src="/demoRes/android-pathview-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/android-pathview-b.gif" width="180" height="290" alt="Screenshot"/>                                                                           |
-| [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) ⭐ 7,029 \| 🐛 15 \| 🌐 HTML \| 📅 2025-01-02                    | [SVG-Loaders-Previewed](http://samherbert.net/svg-loaders/)                                                                                                                                                                                             |
+| [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) ⭐ 7,028 \| 🐛 15 \| 🌐 HTML \| 📅 2025-01-02                    | [SVG-Loaders-Previewed](http://samherbert.net/svg-loaders/)                                                                                                                                                                                             |
 
 ## <a name="Dialog">Dialog</a>
 
@@ -297,4 +297,4 @@ Email: <lightsky.cn@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

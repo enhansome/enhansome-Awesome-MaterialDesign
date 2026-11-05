@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 530629,
+            "stars": 531378,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 44,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58292,
+            "stars": 58312,
             "topics": [
               "android",
               "awesome",
@@ -68,10 +68,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 35,
+            "open_issues": 34,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49434,
+            "stars": 49450,
             "topics": [
               "awesome",
               "awesome-list"
@@ -95,7 +95,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33768,
+            "stars": 33771,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -113,10 +113,10 @@
             "language": "Ruby",
             "license": "CC0-1.0",
             "last_commit": "2026-10-25T06:06:58Z",
-            "open_issues": 19,
+            "open_issues": 21,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26360,
+            "stars": 26362,
             "topics": [
               "awesome",
               "awesome-list",
@@ -151,7 +151,7 @@
             "open_issues": 13,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11222,
+            "stars": 11223,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -193,7 +193,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "willianjusten",
             "repo": "awesome-svg",
             "stars": 4662,
@@ -410,7 +410,7 @@
             "open_issues": 76,
             "owner": "google",
             "repo": "iosched",
-            "stars": 21631,
+            "stars": 21630,
             "topics": [
               "android",
               "architecture",
@@ -470,7 +470,7 @@
             "open_issues": 429,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54226,
+            "stars": 54234,
             "topics": [
               "android",
               "icons",
@@ -499,7 +499,7 @@
             "open_issues": 1132,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11317,
+            "stars": 11315,
             "topics": [
               "android",
               "bootstrap",
@@ -688,10 +688,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-01T19:36:51Z",
-                "open_issues": 149,
+                "open_issues": 148,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16295,
+                "stars": 16296,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -1760,7 +1760,7 @@
                 "open_issues": 195,
                 "owner": "rengwuxian",
                 "repo": "MaterialEditText",
-                "stars": 6072,
+                "stars": 6073,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -1995,7 +1995,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2024-06-11T07:50:55Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "balysv",
                 "repo": "material-ripple",
                 "stars": 2342,
@@ -2365,7 +2365,7 @@
                 "open_issues": 15,
                 "owner": "SamHerbert",
                 "repo": "SVG-Loaders",
-                "stars": 7029,
+                "stars": 7028,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T11:46:10.013Z",
+    "last_updated": "2026-11-05T11:44:34.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
