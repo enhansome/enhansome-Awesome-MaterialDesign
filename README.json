@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 535129,
+            "stars": 535628,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 44,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58405,
+            "stars": 58429,
             "topics": [
               "android",
               "awesome",
@@ -68,10 +68,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49494,
+            "stars": 49501,
             "topics": [
               "awesome",
               "awesome-list"
@@ -95,7 +95,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33781,
+            "stars": 33782,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -112,11 +112,11 @@
             "id": 21696302,
             "language": "Ruby",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-25T06:06:58Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-11T14:39:24Z",
+            "open_issues": 23,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26371,
+            "stars": 26372,
             "topics": [
               "awesome",
               "awesome-list",
@@ -172,7 +172,7 @@
             "open_issues": 7,
             "owner": "snowdream",
             "repo": "awesome-android",
-            "stars": 5903,
+            "stars": 5904,
             "topics": [
               "android",
               "android-libs"
@@ -193,7 +193,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "willianjusten",
             "repo": "awesome-svg",
             "stars": 4663,
@@ -467,10 +467,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T02:18:57Z",
-            "open_issues": 430,
+            "open_issues": 431,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54277,
+            "stars": 54289,
             "topics": [
               "android",
               "icons",
@@ -642,7 +642,7 @@
                 "open_issues": 254,
                 "owner": "navasmdc",
                 "repo": "MaterialDesignLibrary",
-                "stars": 8909,
+                "stars": 8908,
                 "topics": [
                   "android",
                   "material-design"
@@ -666,7 +666,7 @@
                 "open_issues": 214,
                 "owner": "rey5137",
                 "repo": "material",
-                "stars": 5939,
+                "stars": 5938,
                 "topics": [
                   "android",
                   "java",
@@ -691,7 +691,7 @@
                 "open_issues": 149,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16299,
+                "stars": 16303,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -1219,10 +1219,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-09T21:04:17Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "mikepenz",
                 "repo": "MaterialDrawer",
-                "stars": 11639,
+                "stars": 11640,
                 "topics": [
                   "android",
                   "android-development",
@@ -1664,7 +1664,7 @@
                 "open_issues": 80,
                 "owner": "AnderWeb",
                 "repo": "discreteSeekBar",
-                "stars": 2131,
+                "stars": 2130,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2393,7 +2393,7 @@
                 "open_issues": 111,
                 "owner": "afollestad",
                 "repo": "material-dialogs",
-                "stars": 19534,
+                "stars": 19533,
                 "topics": [
                   "alert",
                   "android",
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:37:07.924Z",
+    "last_updated": "2026-11-12T12:00:05.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
