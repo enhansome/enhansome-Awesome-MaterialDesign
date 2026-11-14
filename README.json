@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 103,
+            "open_issues": 104,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 536199,
+            "stars": 536636,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 44,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58441,
+            "stars": 58462,
             "topics": [
               "android",
               "awesome",
@@ -71,7 +71,7 @@
             "open_issues": 42,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49519,
+            "stars": 49532,
             "topics": [
               "awesome",
               "awesome-list"
@@ -95,7 +95,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33785,
+            "stars": 33786,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -116,7 +116,7 @@
             "open_issues": 24,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26371,
+            "stars": 26374,
             "topics": [
               "awesome",
               "awesome-list",
@@ -172,7 +172,7 @@
             "open_issues": 7,
             "owner": "snowdream",
             "repo": "awesome-android",
-            "stars": 5904,
+            "stars": 5903,
             "topics": [
               "android",
               "android-libs"
@@ -467,7 +467,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T02:18:57Z",
-            "open_issues": 431,
+            "open_issues": 430,
             "owner": "google",
             "repo": "material-design-icons",
             "stars": 54298,
@@ -499,7 +499,7 @@
             "open_issues": 1141,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11316,
+            "stars": 11317,
             "topics": [
               "android",
               "bootstrap",
@@ -529,7 +529,7 @@
             "open_issues": 57,
             "owner": "amulyakhare",
             "repo": "TextDrawable",
-            "stars": 3134,
+            "stars": 3133,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -550,7 +550,7 @@
             "open_issues": 64,
             "owner": "zavoloklom",
             "repo": "material-design-iconic-font",
-            "stars": 1403,
+            "stars": 1402,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -1010,7 +1010,7 @@
                 "open_issues": 77,
                 "owner": "makovkastar",
                 "repo": "FloatingActionButton",
-                "stars": 3954,
+                "stars": 3953,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -1222,7 +1222,7 @@
                 "open_issues": 14,
                 "owner": "mikepenz",
                 "repo": "MaterialDrawer",
-                "stars": 11641,
+                "stars": 11640,
                 "topics": [
                   "android",
                   "android-development",
@@ -2393,7 +2393,7 @@
                 "open_issues": 111,
                 "owner": "afollestad",
                 "repo": "material-dialogs",
-                "stars": 19533,
+                "stars": 19532,
                 "topics": [
                   "alert",
                   "android",
@@ -2521,7 +2521,7 @@
             "open_issues": 35,
             "owner": "frogermcs",
             "repo": "InstaMaterial",
-            "stars": 4934,
+            "stars": 4933,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T11:45:18.735Z",
+    "last_updated": "2026-11-14T11:07:00.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
