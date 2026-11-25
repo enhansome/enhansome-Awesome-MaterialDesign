@@ -4,14 +4,14 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 
 \##Other Awesome List
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,072 | 🐛 103 | 📅 2026-09-02
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 58,653 | 🐛 44 | 📅 2026-06-05
-* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,628 | 🐛 53 | 📅 2026-09-23
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,609 | 🐛 103 | 📅 2026-09-02
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 58,670 | 🐛 44 | 📅 2026-06-05
+* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,637 | 🐛 55 | 📅 2026-09-23
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,808 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02
-* [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,403 | 🐛 27 | 🌐 Ruby | 📅 2026-11-11
-* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,230 | 🐛 11 | 📅 2018-03-08
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,406 | 🐛 27 | 🌐 Ruby | 📅 2026-11-11
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,229 | 🐛 11 | 📅 2018-03-08
 * [awesome-android](https://github.com/snowdream/awesome-android) ⚠️ Archived
-* [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,664 | 🐛 97 | 🌐 Shell | 📅 2026-07-16
+* [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,664 | 🐛 98 | 🌐 Shell | 📅 2026-07-16
 * [awesome-resources](https://github.com/lyfeyaj/awesome-resources) ⭐ 1,759 | 🐛 10 | 🌐 HTML | 📅 2022-12-17
 
 ## List of Awesome-MaterialDesign
@@ -95,8 +95,8 @@ Libraries on the github.
 
 ## <a name="Design Res">Design Res</a>
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,361 | 🐛 430 | 📅 2026-10-23
-* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,315 | 🐛 1,145 | 📅 2025-01-20
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,366 | 🐛 430 | 📅 2026-10-23
+* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign) ⭐ 11,315 | 🐛 1,146 | 📅 2025-01-20
 * [TextDrawable](https://github.com/amulyakhare/TextDrawable) ⭐ 3,133 | 🐛 57 | 🌐 Java | 📅 2021-09-02
 * [material-design-iconic-font](https://github.com/zavoloklom/material-design-iconic-font) ⭐ 1,400 | 🐛 64 | 🌐 SCSS | 📅 2023-02-17
 * [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template) ⭐ 434 | 🐛 0 | 🌐 Python | 📅 2016-07-11
@@ -160,7 +160,7 @@ Libraries on the github.
 | [material-menu](https://github.com/balysv/material-menu) ⭐ 2,439 \| 🐛 11 \| 🌐 Java \| 📅 2024-06-11                                         | <img src="/demoRes/material-menu.gif" width="290" height="50" alt="Screenshot"/>                                                                                                              |
 | [DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable) ⭐ 815 \| 🐛 14 \| 🌐 Java \| 📅 2017-07-08                           | <img src="/demoRes/DrawerArrowDrawable.gif" width="290" height="110" alt="Screenshot"/>                                                                                                       |
 | [LDrawer](https://github.com/ikimuhendis/LDrawer) ⭐ 1,370 \| 🐛 8 \| 🌐 Java \| 📅 2019-10-25                                                 | <img src="/demoRes/LDrawer.gif" width="180" height="290" alt="Screenshot"/>                                                                                                                   |
-| [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) ⭐ 11,642 \| 🐛 11 \| 🌐 Kotlin \| 📅 2026-11-23                                  | <img src="/demoRes/MaterialDrawer-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialDrawer-b.png" width="180" height="290" alt="Screenshot"/>                     |
+| [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) ⭐ 11,643 \| 🐛 11 \| 🌐 Kotlin \| 📅 2026-11-23                                  | <img src="/demoRes/MaterialDrawer-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialDrawer-b.png" width="180" height="290" alt="Screenshot"/>                     |
 | [android-material-drawer-template](https://github.com/kanytu/android-material-drawer-template) ⭐ 663 \| 🐛 9 \| 🌐 Java \| 📅 2019-12-12      | <img src="/demoRes/android-material-drawer-template.gif" width="180" height="290" alt="Screenshot"/>                                                                                          |
 | [MaterialTabs](https://github.com/neokree/MaterialTabs) ⚠️ Archived                                                                           | <img src="/demoRes/MaterialTabs-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialTabs-b.png" width="180" height="290" alt="Screenshot"/>                         |
 | [L-Navigation-Drawer](https://github.com/lewisjdeane/L-Navigation-Drawer) ⚠️ Archived                                                         | <img src="/demoRes/L-Navigation-Drawer-a.png" width="180" height="290" alt="Screenshot"/>                                                                                                     |
@@ -184,11 +184,11 @@ Libraries on the github.
 
 | Name                                                                                                                                | Demo                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [materialish-progress](https://github.com/pnikosis/materialish-progress) ⭐ 2,465 \| 🐛 19 \| 🌐 Java \| 📅 2026-04-02               | <img src="/demoRes/materiallish-progress.gif" width="210" height="160" alt="Screenshot"/>                                                                                   |
+| [materialish-progress](https://github.com/pnikosis/materialish-progress) ⭐ 2,466 \| 🐛 19 \| 🌐 Java \| 📅 2026-04-02               | <img src="/demoRes/materiallish-progress.gif" width="210" height="160" alt="Screenshot"/>                                                                                   |
 | [MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar) ⭐ 1,086 \| 🐛 7 \| 🌐 Java \| 📅 2020-10-02      | <img src="/demoRes/MaterialLoadingProgressBar.gif" width="180" height="290" alt="Screenshot"/>                                                                              |
 | [SwipyRefreshLayout](https://github.com/OrangeGangsters/SwipyRefreshLayout) ⚠️ Archived                                             | <img src="/demoRes/SwipyRefreshLayout.gif" width="180" height="290" alt="Screenshot"/>                                                                                      |
 | [MaterialSettings](https://github.com/kenumir/MaterialSettings) ⭐ 359 \| 🐛 8 \| 🌐 Java \| 📅 2015-04-08                           | <img src="/demoRes/MaterialSettings.png" width="180" height="290" alt="Screenshot"/>                                                                                        |
-| [SwitchButton](https://github.com/kyleduo/SwitchButton) ⭐ 4,738 \| 🐛 22 \| 🌐 Java \| 📅 2023-12-02                                | <img src="/demoRes/SwitchButton-a.jpg"  width="260" height="260" alt="Screenshot"/> <img src="/demoRes/SwitchButton-b.png" width="180" height="290" alt="Screenshot"/>      |
+| [SwitchButton](https://github.com/kyleduo/SwitchButton) ⭐ 4,737 \| 🐛 22 \| 🌐 Java \| 📅 2023-12-02                                | <img src="/demoRes/SwitchButton-a.jpg"  width="260" height="260" alt="Screenshot"/> <img src="/demoRes/SwitchButton-b.png" width="180" height="290" alt="Screenshot"/>      |
 | [discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) ⭐ 2,126 \| 🐛 80 \| 🌐 Java \| 📅 2018-05-07                         | <img src="/demoRes/discreteSeekBar-a.gif" width="450" height="160" alt="Screenshot"/> <img src="/demoRes/discreteSeekBar-b.gif" width="350" height="220" alt="Screenshot"/> |
 | [material-range-bar](https://github.com/oli107/material-range-bar) ⭐ 1,660 \| 🐛 96 \| 🌐 Java \| 📅 2020-12-09                     | <img src="/demoRes/material-range-bar.gif" width="180" height="290" alt="Screenshot"/>                                                                                      |
 | [material-calendarview](https://github.com/prolificinteractive/material-calendarview) ⭐ 5,890 \| 🐛 252 \| 🌐 Java \| 📅 2023-05-28 | <img src="/demoRes/material-calendarview.gif" width="230" height="290" alt="Screenshot"/>                                                                                   |
@@ -220,7 +220,7 @@ Libraries on the github.
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) ⭐ 4,774 \| 🐛 7 \| 🌐 Java \| 📅 2020-04-08 | <img src="/demoRes/transitions-everywhere.gif" width="180" height="290" alt="Screenshot"/>                                                                                              |
 | [PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition) ⭐ 1,287 \| 🐛 8 \| 🌐 Java \| 📅 2017-04-29    | <img src="/demoRes/PreLollipopTransition-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/PreLollipopTransition-b.gif" width="180" height="290" alt="Screenshot"/> |
-| [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,523 \| 🐛 21 \| 🌐 Java \| 📅 2019-04-02        | <img src="/demoRes/Material-Animations.gif" width="180" height="290" alt="Screenshot"/>                                                                                                 |
+| [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,520 \| 🐛 21 \| 🌐 Java \| 📅 2019-04-02        | <img src="/demoRes/Material-Animations.gif" width="180" height="290" alt="Screenshot"/>                                                                                                 |
 
 ## <a name="Ripple">Ripple</a>
 
@@ -247,7 +247,7 @@ Libraries on the github.
 
 | Name                                                                                                                                    | Demo                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) ⭐ 9,601 \| 🐛 177 \| 🌐 Java \| 📅 2021-06-01 | <img src="/demoRes/Android-ObservableScrollView-a.gif" width="220" height="180" alt="Screenshot"/> <img src="/demoRes/Android-ObservableScrollView-c.gif" width="220" height="280" alt="Screenshot"/> |
+| [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) ⭐ 9,600 \| 🐛 177 \| 🌐 Java \| 📅 2021-06-01 | <img src="/demoRes/Android-ObservableScrollView-a.gif" width="220" height="180" alt="Screenshot"/> <img src="/demoRes/Android-ObservableScrollView-c.gif" width="220" height="280" alt="Screenshot"/> |
 | [ViewPagerHeaderScrollDemo](https://github.com/ongakuer/ViewPagerHeaderScrollDemo) ⚠️ Archived                                          | <img src="/demoRes/viewpagerheaderdemo.gif" width="180" height="290" alt="Screenshot"/>                                                                                                               |
 | [MaterialTextScaleToolbarDemo](https://github.com/yueban/MaterialTextScaleToolbarDemo) ⭐ 109 \| 🐛 0 \| 🌐 Java \| 📅 2015-04-29        | <img src="/demoRes/MaterialTextScaleToolbarDemo.gif" width="180" height="290"/>                                                                                                                       |
 | [Scrollable](https://github.com/noties/Scrollable) ⭐ 1,235 \| 🐛 3 \| 🌐 Java \| 📅 2024-03-15                                          | <img src="/demoRes/Scrollable.gif" width="180" height="290"/>                                                                                                                                         |
@@ -259,7 +259,7 @@ Libraries on the github.
 | [vector-compat](https://github.com/wnafee/vector-compat) ⭐ 1,211 \| 🐛 25 \| 🌐 Java \| 📅 2016-10-24                    | <img src="/demoRes/vector-compat-a.gif" width="80" height="80" alt="Screenshot"/> <img src="/demoRes/vector-compat-b.gif" width="110" height="80" alt="Screenshot"/> <img src="/demoRes/vector-compat-c.gif" width="110" height="80" alt="Screenshot"/> |
 | [animated-vector-drawable](https://github.com/chiuki/animated-vector-drawable) ⭐ 322 \| 🐛 3 \| 🌐 Java \| 📅 2014-12-04 | <img src="/demoRes/animated-vector-drawable.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/animated-vector-drawable-b.gif" width="180" height="290" alt="Screenshot"/>                                                             |
 | [android-pathview](https://github.com/geftimov/android-pathview) ⭐ 2,878 \| 🐛 10 \| 🌐 Java \| 📅 2022-01-23            | <img src="/demoRes/android-pathview-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/android-pathview-b.gif" width="180" height="290" alt="Screenshot"/>                                                                           |
-| [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) ⭐ 7,028 \| 🐛 15 \| 🌐 HTML \| 📅 2025-01-02                    | [SVG-Loaders-Previewed](http://samherbert.net/svg-loaders/)                                                                                                                                                                                             |
+| [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) ⭐ 7,029 \| 🐛 15 \| 🌐 HTML \| 📅 2025-01-02                    | [SVG-Loaders-Previewed](http://samherbert.net/svg-loaders/)                                                                                                                                                                                             |
 
 ## <a name="Dialog">Dialog</a>
 
@@ -297,4 +297,4 @@ Email: <lightsky.cn@gmail.com>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
