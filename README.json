@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 543116,
+            "stars": 543714,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 44,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58679,
+            "stars": 58691,
             "topics": [
               "android",
               "awesome",
@@ -68,10 +68,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49647,
+            "stars": 49654,
             "topics": [
               "awesome",
               "awesome-list"
@@ -95,7 +95,7 @@
             "open_issues": 67,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33808,
+            "stars": 33812,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -116,7 +116,7 @@
             "open_issues": 27,
             "owner": "matteocrippa",
             "repo": "awesome-swift",
-            "stars": 26406,
+            "stars": 26407,
             "topics": [
               "awesome",
               "awesome-list",
@@ -151,7 +151,7 @@
             "open_issues": 11,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11230,
+            "stars": 11231,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -193,7 +193,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
-            "open_issues": 98,
+            "open_issues": 99,
             "owner": "willianjusten",
             "repo": "awesome-svg",
             "stars": 4665,
@@ -470,7 +470,7 @@
             "open_issues": 430,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54371,
+            "stars": 54375,
             "topics": [
               "android",
               "icons",
@@ -499,7 +499,7 @@
             "open_issues": 1147,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11314,
+            "stars": 11315,
             "topics": [
               "android",
               "bootstrap",
@@ -688,10 +688,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-23T17:14:10Z",
-                "open_issues": 138,
+                "open_issues": 139,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16306,
+                "stars": 16309,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -1130,7 +1130,7 @@
                 "open_issues": 12,
                 "owner": "markushi",
                 "repo": "android-ui",
-                "stars": 2183,
+                "stars": 2184,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -1465,7 +1465,7 @@
                 "open_issues": 183,
                 "owner": "florent37",
                 "repo": "MaterialViewPager",
-                "stars": 8054,
+                "stars": 8055,
                 "topics": [
                   "android",
                   "java",
@@ -1900,7 +1900,7 @@
                 "open_issues": 21,
                 "owner": "lgvalle",
                 "repo": "Material-Animations",
-                "stars": 13520,
+                "stars": 13521,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2074,7 +2074,7 @@
                 "open_issues": 12,
                 "owner": "markushi",
                 "repo": "android-ui",
-                "stars": 2183,
+                "stars": 2184,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2196,7 +2196,7 @@
                 "open_issues": 177,
                 "owner": "ksoichiro",
                 "repo": "Android-ObservableScrollView",
-                "stars": 9600,
+                "stars": 9601,
                 "topics": [
                   "android",
                   "android-library",
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T13:23:50.246Z",
+    "last_updated": "2026-11-27T13:20:53.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
