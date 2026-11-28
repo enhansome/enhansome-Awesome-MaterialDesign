@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 543714,
+            "stars": 544176,
             "topics": [
               "awesome",
               "awesome-list",
@@ -46,7 +46,7 @@
             "open_issues": 44,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58691,
+            "stars": 58706,
             "topics": [
               "android",
               "awesome",
@@ -68,10 +68,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-23T10:50:49Z",
-            "open_issues": 57,
+            "open_issues": 55,
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 49654,
+            "stars": 49662,
             "topics": [
               "awesome",
               "awesome-list"
@@ -95,7 +95,7 @@
             "open_issues": 67,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33812,
+            "stars": 33813,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -193,7 +193,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
-            "open_issues": 99,
+            "open_issues": 100,
             "owner": "willianjusten",
             "repo": "awesome-svg",
             "stars": 4665,
@@ -467,10 +467,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T02:18:57Z",
-            "open_issues": 430,
+            "open_issues": 428,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54375,
+            "stars": 54382,
             "topics": [
               "android",
               "icons",
@@ -550,7 +550,7 @@
             "open_issues": 64,
             "owner": "zavoloklom",
             "repo": "material-design-iconic-font",
-            "stars": 1400,
+            "stars": 1399,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -691,7 +691,7 @@
                 "open_issues": 139,
                 "owner": "MaterialDesignInXAML",
                 "repo": "MaterialDesignInXamlToolkit",
-                "stars": 16309,
+                "stars": 16310,
                 "topics": [
                   "c-sharp",
                   "design",
@@ -1222,7 +1222,7 @@
                 "open_issues": 11,
                 "owner": "mikepenz",
                 "repo": "MaterialDrawer",
-                "stars": 11641,
+                "stars": 11643,
                 "topics": [
                   "android",
                   "android-development",
@@ -2521,7 +2521,7 @@
             "open_issues": 35,
             "owner": "frogermcs",
             "repo": "InstaMaterial",
-            "stars": 4932,
+            "stars": 4931,
             "topics": []
           },
           "first_seen": "2026-08-28T15:48:43.093Z"
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T13:20:53.723Z",
+    "last_updated": "2026-11-28T12:36:20.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of material design libs and res.",
